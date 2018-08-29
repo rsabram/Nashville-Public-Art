@@ -1,0 +1,1697 @@
+﻿District Number,School Number,District Name,School Name,Overall Composite,Literacy Composite,Numeracy Composite,Literacy and Numeracy Composite,Science Composite,Social Studies Composite
+10,2,Anderson County,Anderson County High School,5,1,5,3,5,1
+10,5,Anderson County,Andersonville Elementary,5,4,5,5,5,4
+10,10,Anderson County,Briceville Elementary,5,4,4,4,5,3
+10,15,Anderson County,Claxton Elementary,5,3,5,5,5,1
+10,20,Anderson County,Clinton Middle School,1,1,3,1,1,1
+10,25,Anderson County,Clinton High School,4,3,3,3,3,5
+10,35,Anderson County,Dutch Valley Elementary,4,3,5,4,3,3
+10,40,Anderson County,Fairview Elementary,3,3,4,4,1,1
+10,46,Anderson County,Grand Oaks Elementary,5,5,5,5,5,4
+10,50,Anderson County,Lake City Elementary,2,2,4,3,1,3
+10,55,Anderson County,Lake City Middle School,5,4,5,5,5,1
+10,70,Anderson County,Norris Elementary,3,3,3,4,3,3
+10,75,Anderson County,Norris Middle School,2,1,3,2,,
+10,80,Anderson County,Norwood Elementary,5,3,5,5,5,1
+10,85,Anderson County,Norwood Middle School,4,3,3,3,5,1
+11,5,Clinton City,Clinton Elementary,5,5,5,5,4,1
+11,10,Clinton City,North Clinton Elementary,3,4,3,4,1,3
+11,15,Clinton City,South Clinton Elementary,5,3,5,5,3,3
+12,15,Oak Ridge City,Glenwood Elementary,3,3,3,3,,
+12,25,Oak Ridge City,Jefferson Middle School,1,1,1,1,1,4
+12,30,Oak Ridge City,Linden Elementary,2,3,2,2,,
+12,35,Oak Ridge City,Oak Ridge High School,5,5,5,5,5,5
+12,40,Oak Ridge City,Robertsville Middle School,3,4,2,3,5,2
+12,45,Oak Ridge City,Willow Brook Elementary,3,3,3,3,,
+12,50,Oak Ridge City,Woodland Elementary,3,1,4,3,,
+20,12,Bedford County,Cascade Elementary,4,4,5,5,3,1
+20,13,Bedford County,Cascade High School,4,3,3,3,3,5
+20,15,Bedford County,Eakin Elementary,1,1,1,1,3,1
+20,17,Bedford County,Cascade Middle School,3,2,5,3,1,5
+20,20,Bedford County,Shelbyville Central High School,1,1,2,1,1,4
+20,25,Bedford County,Harris Middle School,1,1,3,1,1,1
+20,33,Bedford County,Community Elementary School,3,3,3,3,5,3
+20,35,Bedford County,Community High School,1,1,1,1,1,1
+20,37,Bedford County,Community Middle School,1,1,1,1,4,5
+20,39,Bedford County,Learning Way Elementary,1,1,1,1,2,1
+20,40,Bedford County,East Side Elementary,1,2,1,1,2,3
+20,53,Bedford County,Liberty Elementary,1,1,3,1,1,1
+20,75,Bedford County,South Side Elementary,1,2,1,1,3,1
+20,78,Bedford County,Thomas Magnet,1,2,2,1,3,1
+30,10,Benton County,Big Sandy School,4,4,4,4,5,2
+30,15,Benton County,Briarwood School,5,5,5,5,4,3
+30,25,Benton County,Camden Central High School,5,2,4,3,5,4
+30,27,Benton County,Camden Jr High School,5,3,4,3,5,5
+30,30,Benton County,Holladay Elementary,1,2,3,2,3,2
+40,5,Bledsoe County,Bledsoe County High School,3,1,5,2,4,
+40,6,Bledsoe County,Bledsoe County Middle School,1,1,4,1,1,3
+40,10,Bledsoe County,Cecil B Rigsby Elementary,4,3,3,3,5,3
+40,25,Bledsoe County,Mary V Wheeler Elementary,5,5,2,4,5,5
+40,30,Bledsoe County,Pikeville Elementary,5,4,5,5,5,5
+50,22,Blount County,Carpenters Elementary School,2,3,1,1,5,5
+50,23,Blount County,Carpenters Middle School,1,2,1,1,1,1
+50,30,Blount County,Eagleton Middle School,1,1,1,1,1,1
+50,43,Blount County,Eagleton Elementary,2,3,4,3,1,3
+50,45,Blount County,Fairview Elementary,3,2,5,3,3,3
+50,55,Blount County,Friendsville Elementary,5,4,5,5,3,4
+50,61,Blount County,Heritage Middle School,1,3,2,2,1,1
+50,63,Blount County,Heritage High School,3,1,3,1,5,5
+50,70,Blount County,Lanier Elementary,2,2,3,3,1,3
+50,84,Blount County,Union Grove Middle School,1,4,3,4,1,2
+50,90,Blount County,Mary Blount Elementary,1,1,1,1,3,1
+50,93,Blount County,Middlesettlements,1,1,1,1,1,1
+50,94,Blount County,Montvale Elementary,2,3,3,3,1,3
+50,95,Blount County,Porter Elementary,5,5,2,4,4,5
+50,110,Blount County,Rockford Elementary,3,4,1,3,4,1
+50,125,Blount County,Townsend Elementary,3,3,3,3,3,1
+50,138,Blount County,Union Grove Elementary School,1,1,3,1,2,3
+50,145,Blount County,Walland Elementary School,1,3,1,2,1,2
+50,155,Blount County,William Blount High School,5,3,4,3,3,5
+50,160,Blount County,Prospect Elementary School,3,3,5,5,2,1
+51,6,Alcoa City,Alcoa Middle School,5,5,5,5,4,3
+51,10,Alcoa City,Alcoa High School,5,5,5,5,5,5
+51,12,Alcoa City,Alcoa Intermediate School,2,4,1,2,3,5
+52,10,Maryville City,John Sevier Elementary,5,4,5,5,,
+52,15,Maryville City,Maryville High School,5,5,5,5,5,3
+52,18,Maryville City,Montgomery Ridge Intermediate School,5,3,5,5,5,5
+52,20,Maryville City,Maryville Junior High School,5,5,5,5,5,5
+52,25,Maryville City,Sam Houston Elementary,5,5,5,5,,
+52,30,Maryville City,Foothills Elementary,5,5,4,5,,
+52,35,Maryville City,Coulter Grove Intermediate School,5,3,4,4,3,5
+60,10,Bradley County,Black Fox Elementary School,3,2,3,3,5,2
+60,18,Bradley County,Ocoee Middle School,1,1,1,1,2,1
+60,20,Bradley County,Bradley Central High School,5,5,5,5,1,5
+60,30,Bradley County,Charleston Elementary School,5,4,3,3,5,4
+60,40,Bradley County,Hopewell Elementary School,3,3,1,2,5,5
+60,50,Bradley County,Michigan Avenue Elementary School,3,4,3,4,3,2
+60,55,Bradley County,North Lee Elementary School,1,3,3,3,1,3
+60,60,Bradley County,Oak Grove Elementary School,5,4,5,5,3,1
+60,65,Bradley County,Prospect Elementary School,4,5,3,3,5,2
+60,70,Bradley County,Taylor Elementary School,3,3,3,3,3,1
+60,72,Bradley County,Lake Forest Middle School,4,5,1,5,3,3
+60,75,Bradley County,Valley View Elementary School,3,3,4,4,1,5
+60,78,Bradley County,Walker Valley High School,5,5,5,5,5,2
+60,100,Bradley County,Waterville Community Elementary School,3,4,3,3,1,3
+60,102,Bradley County,Park View Elementary School,4,4,5,5,3,3
+60,105,Bradley County,Bradley County Virtual School,3,3,3,4,2,3
+61,10,Cleveland City,Arnold Memorial Elementary,4,4,4,5,2,3
+61,12,Cleveland City,Blythe-Bower Elementary,1,3,1,2,1,2
+61,18,Cleveland City,Cleveland Middle,5,3,5,5,5,3
+61,20,Cleveland City,Cleveland High,5,5,5,5,5,5
+61,22,Cleveland City,E.L. Ross Elementary,4,5,3,4,3,3
+61,25,Cleveland City,G.R. Stuart Elementary,3,4,3,4,1,5
+61,30,Cleveland City,Mayfield Elementary,3,5,1,3,3,3
+61,40,Cleveland City,F.I. Denning Center of Technology and Careers,3,3,4,3,3,2
+70,3,Campbell County,Campbell County Comprehensive High School,1,5,1,1,1,4
+70,5,Campbell County,Caryville Elementary,4,3,3,3,3,4
+70,40,Campbell County,Elk Valley Elementary,1,3,3,3,1,1
+70,60,Campbell County,Jacksboro Elementary,5,5,5,5,5,2
+70,65,Campbell County,Jacksboro Middle School,1,3,5,5,1,1
+70,70,Campbell County,Jellico Elementary,5,5,4,5,2,1
+70,75,Campbell County,Jellico High School,3,5,3,5,1,3
+70,77,Campbell County,LaFollette Elementary School,2,3,3,3,2,1
+70,80,Campbell County,Lafollette Middle School,1,3,3,3,2,1
+70,135,Campbell County,Valley View Elementary,1,1,1,1,1,1
+70,140,Campbell County,White Oak Elementary,5,4,5,5,5,1
+70,150,Campbell County,Wynn Habersham Elementary,4,4,5,5,3,3
+80,5,Cannon County,Auburn Elementary,1,1,1,1,2,3
+80,16,Cannon County,Cannon County High School,1,3,1,1,1,1
+80,20,Cannon County,East Side Elementary,4,3,3,3,4,3
+80,30,Cannon County,Short Mountain Elementary,3,1,3,3,3,3
+80,35,Cannon County,West Side Elementary,2,1,2,1,3,5
+80,40,Cannon County,Woodbury Grammar,1,3,1,2,1,3
+80,45,Cannon County,Woodland Elementary,5,3,4,4,5,3
+92,5,Hollow Rock-Bruceton,Central Elementary,4,3,4,4,3,4
+92,10,Hollow Rock-Bruceton,Central High School,3,5,3,5,2,1
+93,5,Huntingdon Special School District,Huntingdon Middle School,5,5,5,5,5,1
+93,10,Huntingdon Special School District,Huntingdon High School,5,3,5,4,5,4
+93,15,Huntingdon Special School District,Huntingdon Primary,2,3,1,2,,
+94,5,McKenzie Special School District,McKenzie Elementary,4,3,5,4,,
+94,10,McKenzie Special School District,McKenzie High School,5,3,5,5,5,5
+94,15,McKenzie Special School District,McKenzie Middle School,4,3,5,4,4,3
+95,5,South Carroll Special School District,Clarksburg School,1,1,1,1,1,1
+97,5,West Carroll Special School District,West Carroll Junior/Senior High School,5,5,3,4,5,1
+97,25,West Carroll Special School District,West Carroll Elementary School,3,4,5,4,1,2
+100,5,Carter County,Central Elementary,1,3,1,1,1,3
+100,13,Carter County,Cloudland Elementary School,5,3,5,5,5,3
+100,15,Carter County,Cloudland High School,3,3,3,3,4,3
+100,25,Carter County,Hampton Elementary,4,4,3,3,4,5
+100,30,Carter County,Hampton High School,5,5,5,5,5,5
+100,35,Carter County,Happy Valley Elementary,5,4,4,5,,
+100,40,Carter County,Happy Valley High School,1,1,1,1,3,1
+100,43,Carter County,Happy Valley Middle School,1,1,1,1,1,3
+100,45,Carter County,Hunter Elementary,5,4,5,5,3,3
+100,50,Carter County,Keenburg Elementary,1,2,5,3,1,1
+100,55,Carter County,Little Milligan,3,3,3,3,1,4
+100,85,Carter County,Unaka Elementary,3,3,3,3,2,5
+100,90,Carter County,Unaka High School,5,5,4,5,5,4
+100,95,Carter County,Valley Forge Elementary,5,5,4,5,5,5
+101,10,Elizabethton City,East Side Elementary,2,3,4,3,1,1
+101,15,Elizabethton City,Elizabethton High School,1,2,3,2,1,3
+101,20,Elizabethton City,Harold McCormick Elementary,5,3,3,3,4,5
+101,25,Elizabethton City,T A Dugger Junior High School,2,1,3,1,1,5
+101,30,Elizabethton City,West Side Elementary,1,2,1,1,1,1
+110,5,Cheatham County,Ashland City Elementary,5,5,4,5,,
+110,10,Cheatham County,Cheatham Co Central,5,4,3,4,4,4
+110,14,Cheatham County,Cheatham Middle School,1,2,1,1,1,1
+110,15,Cheatham County,East Cheatham Elementary,3,5,2,3,,
+110,18,Cheatham County,Harpeth Middle School,1,3,1,1,2,3
+110,19,Cheatham County,Harpeth High School,5,4,1,1,5,5
+110,20,Cheatham County,Kingston Springs Elementary,5,5,5,5,,
+110,25,Cheatham County,Pegram Elementary,5,4,5,5,,
+110,30,Cheatham County,Pleasant View Elementary,3,3,2,3,,
+110,32,Cheatham County,Sycamore Middle School,1,1,1,1,4,3
+110,33,Cheatham County,Sycamore High School,1,1,1,1,1,3
+110,35,Cheatham County,West Cheatham Elementary,2,1,3,2,,
+120,5,Chester County,Chester County Middle School,5,1,5,3,5,5
+120,8,Chester County,Chester County High School,1,1,1,1,3,5
+120,10,Chester County,Chester County Junior High School,1,1,1,1,1,1
+120,15,Chester County,East Chester Elementary School,4,4,4,4,,
+120,25,Chester County,Jacks Creek Elementary,4,3,5,4,,
+120,30,Chester County,W Chester Elementary School,2,3,1,2,,
+130,35,Claiborne County,Clairfield Elementary,4,3,4,4,3,3
+130,45,Claiborne County,Ellen Myers Primary,1,2,1,1,,
+130,50,Claiborne County,Forge Ridge School,3,3,3,3,4,3
+130,67,Claiborne County,H. Y. Livesay Middle School,5,5,5,5,5,3
+130,90,Claiborne County,Midway Elementary,5,3,3,3,5,4
+130,93,Claiborne County,Cumberland Gap High School,5,5,2,3,5,3
+130,95,Claiborne County,Powell Valley Elementary,5,5,5,5,5,5
+130,105,Claiborne County,Soldiers Memorial Middle School,5,5,5,5,5,3
+130,110,Claiborne County,Claiborne High School,3,5,1,3,1,5
+130,115,Claiborne County,Springdale Elementary,3,4,5,5,1,1
+130,117,Claiborne County,Tazewell-New Tazewell Elementary,5,5,5,5,,
+140,5,Clay County,Celina K-8,1,1,1,1,1,1
+140,12,Clay County,Clay County High School,5,3,5,5,5,5
+140,20,Clay County,Hermitage Springs Elementary School,2,3,2,3,2,2
+150,5,Cocke County,Bridgeport Elementary,3,2,5,4,5,1
+150,10,Cocke County,Centerview Elementary,2,3,2,3,2,1
+150,15,Cocke County,Cocke Co High School,1,3,1,2,1,4
+150,25,Cocke County,Cosby Elementary,3,2,4,3,1,4
+150,27,Cocke County,Cosby High School,2,3,1,1,3,5
+150,30,Cocke County,Del Rio Elementary,3,2,3,3,2,5
+150,35,Cocke County,Edgemont Elementary,1,3,1,1,2,1
+150,40,Cocke County,Grassy Fork Elementary,5,5,3,4,4,4
+150,52,Cocke County,Northwest Elementary,1,3,2,2,3,1
+150,55,Cocke County,Parrottsville Elementary,5,2,3,2,5,5
+150,65,Cocke County,Smoky Mountain Elementary,3,3,3,3,2,3
+151,5,Newport City,Newport Grammar School,5,4,5,5,2,5
+160,5,Coffee County,Coffee County Central High School,5,5,4,5,3,3
+160,10,Coffee County,Coffee County Middle School,1,1,1,1,1,3
+160,15,Coffee County,East Coffee Elementary,3,2,3,3,3,3
+160,20,Coffee County,Hickerson Elementary,2,2,1,1,2,4
+160,25,Coffee County,Hillsboro Elementary,5,2,5,4,5,5
+160,35,Coffee County,New Union Elementary,4,3,4,4,2,4
+160,40,Coffee County,North Coffee Elementary,5,2,5,4,4,5
+160,50,Coffee County,Deerfield Elementary School,1,2,3,2,1,2
+160,55,Coffee County,Coffee County Raider Academy,5,5,5,5,,
+161,5,Manchester City,College Street Elementary,3,3,3,2,4,5
+161,10,Manchester City,Westwood Elementary,2,3,1,1,1,5
+161,15,Manchester City,Westwood Middle School,3,2,3,2,3,4
+162,5,Tullahoma City,Bel Aire Elementary,1,3,4,3,1,2
+162,15,Tullahoma City,East Middle School,2,3,2,3,1,2
+162,20,Tullahoma City,East Lincoln Elementary,5,5,3,5,2,4
+162,23,Tullahoma City,Jack T Farrar Elementary,5,5,5,5,3,1
+162,25,Tullahoma City,Robert E Lee Elementary,5,2,5,4,5,3
+162,35,Tullahoma City,Tullahoma High School,1,1,5,1,1,1
+162,40,Tullahoma City,West Middle School,2,4,3,4,1,1
+170,3,Crockett County,Crockett County High School,3,3,1,1,5,5
+170,12,Crockett County,Crockett County Middle School,5,5,5,5,3,5
+170,20,Crockett County,Friendship Elementary,1,3,1,1,2,2
+170,25,Crockett County,Gadsden Elementary,1,1,2,1,1,1
+170,40,Crockett County,Maury City Elementary,2,2,3,3,3,1
+171,5,Alamo City,Alamo Elementary,4,3,5,5,1,1
+172,5,Bells City,Bells Elementary,3,2,5,3,3,2
+180,8,Cumberland County,Frank P. Brown Elementary,5,5,1,2,5,5
+180,10,Cumberland County,Homestead Elementary School,5,2,5,4,2,5
+180,15,Cumberland County,Crab Orchard Elementary,5,5,3,5,4,5
+180,25,Cumberland County,Cumberland County High School,2,1,3,2,2,4
+180,33,Cumberland County,Glenn Martin Elementary,5,3,5,5,5,4
+180,53,Cumberland County,North Cumberland Elementary,1,1,1,1,1,3
+180,55,Cumberland County,Pine View Elementary,2,3,4,3,1,3
+180,60,Cumberland County,Pleasant Hill Elementary,1,2,2,1,1,1
+180,73,Cumberland County,South Cumberland Elementary,3,3,5,4,3,3
+180,74,Cumberland County,Stone Elementary,4,3,5,5,1,4
+180,79,Cumberland County,Stone Memorial High School,4,4,4,5,3,2
+180,85,Cumberland County,The Phoenix School,1,2,3,3,1,1
+190,1,Davidson County,A. Z. Kelley Elementary,1,1,1,1,,
+190,3,Davidson County,MNPS Virtual School,2,2,3,2,1,3
+190,5,Davidson County,Alex Green Elementary,3,3,3,3,,
+190,10,Davidson County,Amqui Elementary,3,3,2,3,,
+190,15,Davidson County,Andrew Jackson Elementary,4,2,5,4,,
+190,20,Davidson County,Antioch High School,1,1,1,1,1,1
+190,23,Davidson County,Antioch Middle,3,3,5,5,2,1
+190,25,Davidson County,Apollo Middle,1,3,3,3,1,2
+190,35,Davidson County,Moses McKissack Middle,1,3,1,1,2,1
+190,40,Davidson County,Bellevue Middle,3,3,2,2,5,1
+190,45,Davidson County,Bellshire Elementary,3,3,2,3,,
+190,53,Davidson County,Nashville Big Picture High School,1,1,2,1,2,3
+190,70,Davidson County,Buena Vista Elementary,3,3,3,3,,
+190,77,Davidson County,Cane Ridge High School,1,1,1,1,1,1
+190,80,Davidson County,Caldwell Elementary,1,2,2,1,,
+190,82,Davidson County,Cane Ridge Elementary,3,4,3,3,,
+190,105,Davidson County,Chadwell Elementary,2,3,1,2,,
+190,110,Davidson County,Charlotte Park Elementary,5,5,5,5,,
+190,120,Davidson County,Cockrill Elementary,4,4,3,4,,
+190,126,Davidson County,W.A. Bass Alternative Learning Center,1,1,1,1,1,2
+190,130,Davidson County,Cole Elementary,3,3,3,3,,
+190,140,Davidson County,Hattie Cotton Elementary,3,3,2,3,,
+190,145,Davidson County,Crieve Hall Elementary,5,5,4,5,,
+190,148,Davidson County,Croft Middle,2,4,1,1,4,5
+190,150,Davidson County,Cumberland Elementary,2,1,3,2,,
+190,160,Davidson County,Dan Mills Elementary,5,5,5,5,,
+190,165,Davidson County,Dodson Elementary,4,4,4,4,,
+190,175,Davidson County,Donelson Middle,1,1,1,1,3,1
+190,180,Davidson County,DuPont Elementary,1,1,1,1,,
+190,185,Davidson County,DuPont Tyler Middle,1,2,1,1,1,1
+190,190,Davidson County,DuPont Hadley Middle,5,3,5,4,5,4
+190,195,Davidson County,Eakin Elementary,5,5,5,5,,
+190,203,Davidson County,East Nashville Magnet High School,1,1,1,1,1,2
+190,208,Davidson County,Thomas A. Edison Elementary,1,2,1,1,,
+190,220,Davidson County,Fall-Hamilton Elementary,1,1,3,1,,
+190,235,Davidson County,Gateway Elementary,4,5,3,4,,
+190,240,Davidson County,Glencliff Elementary,4,5,2,4,,
+190,245,Davidson County,Glencliff High School,1,1,1,1,1,1
+190,250,Davidson County,Glendale Elementary,5,5,3,5,,
+190,255,Davidson County,Glengarry Elementary,3,3,3,3,,
+190,260,Davidson County,Glenn Elementary,5,4,4,5,,
+190,265,Davidson County,Glenview Elementary,1,3,1,1,,
+190,270,Davidson County,Goodlettsville Elementary,3,4,2,3,,
+190,275,Davidson County,Goodlettsville Middle,1,3,1,1,1,1
+190,280,Davidson County,Gower Elementary,5,4,5,5,,
+190,285,Davidson County,Gra-Mar Middle,1,3,2,2,1,2
+190,290,Davidson County,Granbery Elementary,3,2,3,3,,
+190,295,Davidson County,H. G. Hill Middle,5,5,5,5,3,5
+190,296,Davidson County,East Nashville Middle,3,1,3,2,5,4
+190,300,Davidson County,Harpeth Valley Elementary,1,1,1,1,,
+190,305,Davidson County,Haynes Middle,1,1,1,1,1,1
+190,310,Davidson County,Haywood Elementary,3,5,1,3,,
+190,315,Davidson County,Head Middle,5,5,5,5,3,3
+190,318,Davidson County,Henry C. Maxwell Elementary,1,3,1,1,,
+190,320,Davidson County,Hermitage Elementary,1,3,1,1,,
+190,327,Davidson County,Hickman Elementary,1,2,1,1,,
+190,330,Davidson County,Meigs Middle,5,5,5,5,5,3
+190,335,Davidson County,Hillsboro High,1,1,1,1,1,1
+190,340,Davidson County,Hillwood High,1,1,1,1,1,1
+190,350,Davidson County,Hull-Jackson Elementary,2,2,2,2,,
+190,355,Davidson County,Hume - Fogg High,5,5,5,5,1,2
+190,358,Davidson County,Hunters Lane High,1,1,2,1,5,3
+190,360,Davidson County,Inglewood Elementary,1,2,1,1,,
+190,365,Davidson County,Isaac Litton Middle,1,4,2,3,1,1
+190,370,Davidson County,J. E. Moss Elementary,1,1,1,1,,
+190,375,Davidson County,Jere Baxter Middle,1,3,4,4,1,1
+190,380,Davidson County,Joelton Elementary,1,3,1,1,,
+190,385,Davidson County,Joelton Middle,1,2,1,1,1,1
+190,386,Davidson County,John Early Middle,2,3,2,2,2,2
+190,387,Davidson County,Jones Elementary,1,3,1,1,,
+190,390,Davidson County,John B. Whitsitt Elementary,4,5,3,4,,
+190,393,Davidson County,John F. Kennedy Middle,5,5,3,5,5,3
+190,395,Davidson County,John Overton High,1,1,1,1,1,1
+190,415,Davidson County,Julia Green Elementary,2,4,1,2,,
+190,420,Davidson County,Robert E. Lilliard Elementary,1,3,1,1,,
+190,430,Davidson County,Lakeview Elementary,1,1,1,1,,
+190,435,Davidson County,Lockeland Elementary,5,5,4,5,,
+190,437,Davidson County,Middle College High,5,5,3,5,4,4
+190,443,Davidson County,Cora Howe School,2,2,3,2,2,
+190,445,Davidson County,Maplewood High,1,1,1,1,1,1
+190,450,Davidson County,Margaret Allen Middle,2,5,1,3,2,2
+190,456,Davidson County,Martin Luther King Jr School,5,5,5,5,5,5
+190,465,Davidson County,McGavock Elementary,3,3,3,3,,
+190,470,Davidson County,McGavock High,1,1,1,1,1,1
+190,480,Davidson County,McMurray Middle,5,5,1,3,5,5
+190,490,Davidson County,John Trotwood Moore Middle,5,4,2,3,5,5
+190,493,Davidson County,Mt. View Elementary,4,4,3,4,,
+190,505,Davidson County,Murrell School,1,1,2,1,1,
+190,510,Davidson County,Napier Elementary,5,5,4,5,,
+190,512,Davidson County,Nashville School Of The Arts,1,3,1,1,1,1
+190,515,Davidson County,Neely's Bend Elementary,5,5,5,5,,
+190,525,Davidson County,Norman Binkley Elementary,4,3,5,4,,
+190,535,Davidson County,Old Center Elementary,1,1,1,1,,
+190,538,Davidson County,William Henry Oliver Middle,5,5,3,5,5,1
+190,540,Davidson County,Paragon Mills Elementary,5,5,5,5,,
+190,545,Davidson County,Park Avenue Elementary,3,3,2,3,,
+190,555,Davidson County,Pearl-Cohn High,5,3,4,4,5,5
+190,565,Davidson County,Pennington Elementary,3,4,1,3,,
+190,570,Davidson County,Percy Priest Elementary,1,1,1,1,,
+190,595,Davidson County,Rose Park Middle,1,3,3,3,1,1
+190,600,Davidson County,Rosebank Elementary,3,3,3,3,,
+190,607,Davidson County,Ruby Major Elementary,2,2,3,2,,
+190,608,Davidson County,May Werthan Shayne Elementary School,1,3,1,1,,
+190,610,Davidson County,Shwab Elementary,5,5,5,5,,
+190,614,Davidson County,The Academy at Old Cockrill,4,,5,5,,1
+190,615,Davidson County,Stanford Elementary,5,4,5,5,,
+190,618,Davidson County,Robert Churchwell Elementary,1,2,1,1,,
+190,620,Davidson County,Stratford STEM Magnet School,1,1,1,1,1,1
+190,622,Davidson County,Madison Middle,1,1,3,1,5,1
+190,625,Davidson County,Stratton Elementary,5,4,5,5,,
+190,630,Davidson County,Sylvan Park Elementary,4,4,3,4,,
+190,633,Davidson County,Thurgood Marshall Middle,1,3,3,3,1,1
+190,635,Davidson County,Tom Joy Elementary,3,2,3,3,,
+190,637,Davidson County,Tulip Grove Elementary,3,5,1,3,,
+190,645,Davidson County,Tusculum Elementary,5,5,5,5,,
+190,650,Davidson County,Two Rivers Middle,3,5,3,4,3,3
+190,655,Davidson County,Una Elementary,5,5,3,5,,
+190,670,Davidson County,Carter-Lawrence Elementary,3,3,3,3,,
+190,675,Davidson County,Warner Elementary,1,3,1,1,,
+190,690,Davidson County,West End Middle,3,4,4,4,3,2
+190,695,Davidson County,Westmeade Elementary,3,5,2,3,,
+190,700,Davidson County,Creswell Middle Prep School of the Arts,4,3,4,3,5,1
+190,704,Davidson County,Whites Creek High,1,1,1,1,1,1
+190,715,Davidson County,Wright Middle,1,3,1,1,1,1
+190,740,Davidson County,Johnson Alternative Learning Center,1,1,1,1,1,1
+190,745,Davidson County,The Cohn Learning Center,1,1,1,1,1,1
+190,750,Davidson County,Smith Springs Elementary School,3,5,1,3,,
+190,755,Davidson County,Waverly-Belmont Elementary School,1,1,1,1,,
+190,8001,Davidson County,Smithson Craighead Academy,4,5,3,4,,
+190,8002,Davidson County,KIPP Academy Nashville,5,5,5,5,3,5
+190,8003,Davidson County,Lead Academy,5,4,5,5,3,3
+190,8004,Davidson County,New Vision Academy,1,2,1,1,2,1
+190,8005,Davidson County,Liberty Collegiate Academy,5,5,3,5,5,5
+190,8006,Davidson County,STEM Prep Academy,5,5,3,5,5,5
+190,8008,Davidson County,Nashville Prep,5,5,2,3,5,5
+190,8009,Davidson County,East End Preparatory School,1,2,1,1,3,5
+190,8010,Davidson County,Cameron College Preparatory,5,5,5,5,5,5
+190,8011,Davidson County,KIPP Nashville Collegiate High School,1,1,4,3,1,3
+190,8012,Davidson County,Knowledge Academy,5,5,4,5,3,3
+190,8013,Davidson County,LEAD Prep Southeast,5,5,5,5,5,5
+190,8042,Davidson County,KIPP Nashville College Prep,5,5,5,5,5,5
+190,8044,Davidson County,Nashville Classical,1,2,1,1,,
+190,8045,Davidson County,Valor Flagship Academy,5,5,5,5,5,5
+190,8046,Davidson County,Purpose Prep,4,1,5,4,,
+190,8048,Davidson County,Intrepid College Preparatory Charter School,3,3,4,4,5,1
+190,8050,Davidson County,Rocketship Nashville Northeast Elementary,5,3,5,5,,
+190,8055,Davidson County,Nashville Academy of Computer Science,1,3,1,1,1,1
+190,8065,Davidson County,Knowledge Academies High School,1,4,1,3,1,1
+190,8070,Davidson County,Rocketship United,5,5,5,5,,
+190,8075,Davidson County,STEM Prep High School,3,5,2,4,1,5
+190,8080,Davidson County,Valor Voyager Academy,5,5,5,5,5,5
+190,8090,Davidson County,Strive Collegiate Academy,5,4,1,3,4,5
+190,8100,Davidson County,RePublic High School,1,1,1,1,1,1
+190,8105,Davidson County,KA @ The Crossings,1,3,1,1,1,2
+200,3,Decatur County,Riverside High School,1,2,3,2,2,2
+200,5,Decatur County,Decaturville Elementary,4,3,5,4,,
+200,10,Decatur County,Parsons Elementary,5,5,4,5,,
+200,20,Decatur County,Decatur County Middle School,4,4,5,5,5,1
+210,25,DeKalb County,De Kalb County High School,1,1,1,1,3,3
+210,37,DeKalb County,DeKalb Middle School,5,5,5,5,5,5
+210,40,DeKalb County,Northside Elementary,4,5,1,2,5,5
+210,50,DeKalb County,DeKalb West Elementary,5,5,5,5,5,5
+220,5,Dickson County,Stuart Burns Elementary,5,5,5,5,1,5
+220,7,Dickson County,Charlotte Elementary,5,4,4,5,5,3
+220,8,Dickson County,Centennial Elementary,5,5,5,5,5,5
+220,10,Dickson County,New Directions Academy,1,1,2,1,1,1
+220,15,Dickson County,Charlotte Middle School,4,5,4,5,1,5
+220,17,Dickson County,Creek Wood High School,5,4,5,5,5,5
+220,20,Dickson County,Dickson Elementary,3,5,4,5,1,2
+220,23,Dickson County,Dickson Middle School,1,3,1,1,1,3
+220,25,Dickson County,Dickson County High School,5,3,5,5,2,1
+220,28,Dickson County,The Discovery School,5,3,5,5,2,4
+220,30,Dickson County,Oakmont Elementary,5,5,5,5,5,5
+220,37,Dickson County,Dickson Intermediate School,1,4,1,1,1,3
+220,40,Dickson County,Vanleer Elementary,5,5,5,5,5,5
+220,44,Dickson County,White Bluff Elementary,5,5,5,5,1,5
+220,50,Dickson County,W James Middle School,5,5,5,5,4,5
+230,15,Dyer County,Northview Middle School,3,4,2,3,2,5
+230,18,Dyer County,Dyer County High School,5,4,5,5,5,4
+230,20,Dyer County,Fifth Consolidated School,5,3,3,3,5,3
+230,25,Dyer County,Finley Elementary,4,3,1,2,5,5
+230,30,Dyer County,Holice Powell Elementary,3,5,3,4,1,2
+230,35,Dyer County,Newbern Elementary School,4,3,5,5,2,1
+230,43,Dyer County,Three Oaks Middle School,4,5,1,3,5,1
+230,45,Dyer County,Trimble Elementary,5,3,5,5,5,4
+231,12,Dyersburg City,Dyersburg Intermediate School,5,5,5,5,1,1
+231,15,Dyersburg City,Dyersburg High School,2,1,3,1,3,5
+231,21,Dyersburg City,Dyersburg Middle School,5,5,5,5,5,3
+240,18,Fayette County,East Jr. High School,3,2,2,1,5,3
+240,26,Fayette County,Fayette Ware Comprehensive High School,1,1,1,1,1,3
+240,46,Fayette County,La Grange Moscow Elementary,5,5,5,5,5,3
+240,60,Fayette County,Oakland Elementary,5,5,5,5,5,4
+240,70,Fayette County,Southwest Elementary,5,3,5,5,5,5
+240,90,Fayette County,West Junior High School,5,4,3,4,5,2
+240,95,Fayette County,Buckley-Carpenter Elementary School,1,1,2,1,1,2
+250,5,Fentress County,Allardt Elementary,3,2,4,3,2,3
+250,25,Fentress County,Clarkrange High School,4,4,3,4,3,5
+250,33,Fentress County,South Fentress Elementary School,4,3,5,5,,1
+250,40,Fentress County,Pine Haven Elementary,3,3,4,3,3,3
+250,60,Fentress County,York Elementary,3,3,4,3,3,1
+260,15,Franklin County,Broadview Elementary,3,3,2,2,5,5
+260,30,Franklin County,Clark Memorial School,1,2,1,1,1,3
+260,35,Franklin County,Cowan Elementary,3,2,5,4,2,3
+260,40,Franklin County,Decherd Elementary,3,3,1,2,3,5
+260,50,Franklin County,Franklin Co High School,5,5,5,5,1,5
+260,65,Franklin County,Huntland School,1,2,1,1,3,1
+260,80,Franklin County,North Middle School,1,3,1,1,3,1
+260,82,Franklin County,North Lake Elementary,1,2,1,1,1,3
+260,87,Franklin County,Rock Creek Elementary,1,3,1,2,1,1
+260,90,Franklin County,Sewanee Elementary,3,3,3,3,1,5
+260,115,Franklin County,South Middle School,1,2,1,1,1,2
+271,20,Humboldt City,Humboldt Junior/Senior High School,1,3,1,1,1,1
+271,27,Humboldt City,East Elementary School,5,3,5,5,5,3
+272,10,Milan,Milan High School,4,1,5,3,5,4
+272,15,Milan,Milan Middle School,3,2,4,3,2,4
+272,25,Milan,Milan Elementary,5,4,5,5,,
+273,5,Trenton Special School District,Peabody High School,1,2,1,1,1,5
+273,10,Trenton Special School District,Trenton Middle School,5,3,4,4,5,1
+273,15,Trenton Special School District,Trenton Elementary,3,4,3,3,,
+274,5,Bradford Special School District,Bradford High School,3,3,5,4,1,3
+274,10,Bradford Special School District,Bradford Elementary,5,5,5,5,4,5
+275,15,Gibson County Special School District,Dyer Elementary,3,4,3,4,3,1
+275,33,Gibson County Special School District,Gibson County High School,5,5,5,5,5,5
+275,35,Gibson County Special School District,Kenton Elementary School,4,3,5,4,,
+275,37,Gibson County Special School District,South Gibson County High School,5,5,3,5,5,3
+275,45,Gibson County Special School District,Medina Middle School,3,1,5,4,1,5
+275,55,Gibson County Special School District,Rutherford Elementary,5,3,5,5,5,5
+275,65,Gibson County Special School District,Spring Hill Elementary,5,5,5,5,5,5
+275,85,Gibson County Special School District,Yorkville Elementary,5,2,5,4,5,3
+280,7,Giles County,Bridgeforth Middle School,5,5,5,5,5,5
+280,35,Giles County,Elkton Elementary,3,3,3,3,1,3
+280,45,Giles County,Giles Co High School,5,5,5,5,5,4
+280,65,Giles County,Minor Hill School,2,1,3,1,4,1
+280,81,Giles County,Richland Elementary,1,4,2,3,1,5
+280,84,Giles County,Richland School,3,1,3,2,1,4
+280,87,Giles County,Southside Elementary,1,1,1,1,1,1
+290,5,Grainger County,Bean Station Elementary,5,4,5,5,5,5
+290,8,Grainger County,Grainger High School,3,2,5,3,3,1
+290,10,Grainger County,Joppa Elementary,4,5,3,5,1,4
+290,18,Grainger County,Rutledge Elementary School,3,5,4,5,1,1
+290,23,Grainger County,Rutledge Middle School,1,5,3,4,1,1
+290,30,Grainger County,Washburn School,5,5,2,4,5,3
+290,32,Grainger County,Grainger Academy,3,,4,4,2,3
+300,5,Greene County,Baileyton Elementary,1,4,3,3,1,1
+300,10,Greene County,Camp Creek Elementary,4,2,4,3,5,5
+300,20,Greene County,Chuckey Elementary,5,4,5,5,2,3
+300,25,Greene County,Chuckey Doak Middle School,5,5,5,5,4,5
+300,28,Greene County,Chuckey Doak High School,5,5,3,5,5,4
+300,30,Greene County,Debusk Elementary,3,3,4,4,2,1
+300,35,Greene County,Doak Elementary,4,3,5,5,1,2
+300,40,Greene County,Glenwood Elementary,3,4,5,5,1,3
+300,55,Greene County,McDonald Elementary,5,4,5,5,5,5
+300,60,Greene County,Mosheim Elementary,5,5,4,5,5,5
+300,67,Greene County,Nolachuckey Elementary,3,5,5,5,1,3
+300,70,Greene County,North Greene High School,5,5,5,5,5,5
+300,75,Greene County,Ottway Elementary,5,4,5,5,5,4
+300,80,Greene County,South Greene High School,5,5,5,5,5,5
+300,95,Greene County,West Greene High School,5,5,5,5,5,5
+300,100,Greene County,West Pines Elementary,5,3,3,3,5,5
+301,8,Greeneville City,C Hal Henard Elementary,5,3,5,4,5,5
+301,15,Greeneville City,Eastview Elementary,5,4,5,5,2,5
+301,20,Greeneville City,Greeneville High School,5,5,5,5,5,5
+301,25,Greeneville City,Greeneville Middle School,5,3,5,5,5,5
+301,30,Greeneville City,Highland Elementary,1,1,5,3,1,1
+301,35,Greeneville City,Tusculum View Elementary,5,5,5,5,5,5
+310,15,Grundy County,Coalmont Elementary,5,4,3,4,5,3
+310,25,Grundy County,Grundy County High School,2,4,2,3,1,3
+310,35,Grundy County,North Elementary,2,3,3,4,2,1
+310,40,Grundy County,Palmer Elementary,5,3,5,5,3,3
+310,45,Grundy County,Pelham Elementary,3,5,1,3,4,2
+310,60,Grundy County,Swiss Memorial Elementary,2,1,5,3,2,1
+310,65,Grundy County,Tracy Elementary,2,3,2,3,3,2
+320,5,Hamblen County,Alpha Elementary,5,5,5,5,5,5
+320,7,Hamblen County,East Ridge Middle School,5,5,3,4,5,5
+320,10,Hamblen County,Fairview Marguerite,4,4,5,5,1,3
+320,12,Hamblen County,Hillcrest Elementary,5,3,3,3,5,5
+320,14,Hamblen County,John Hay Elementary,3,4,2,3,3,3
+320,15,Hamblen County,Manley Elementary,5,5,3,4,3,5
+320,18,Hamblen County,Lincoln Heights Elementary,4,3,3,3,3,5
+320,20,Hamblen County,Russellville Elementary,1,3,2,3,1,2
+320,27,Hamblen County,Lincoln Heights Middle School,5,5,3,5,5,5
+320,30,Hamblen County,Union Heights Elementary,4,3,3,3,5,5
+320,33,Hamblen County,West View Middle School,5,4,5,5,5,5
+320,35,Hamblen County,Whitesburg Elementary,5,3,5,5,5,4
+320,37,Hamblen County,Meadowview Middle School,5,5,5,5,5,5
+320,40,Hamblen County,Witt Elementary,3,3,4,3,2,4
+320,42,Hamblen County,Morristown East High,5,5,5,5,3,5
+320,45,Hamblen County,Morristown West High,5,5,5,5,5,5
+320,48,Hamblen County,West Elementary,3,4,3,3,1,4
+330,5,Hamilton County,Allen Elementary,5,4,5,5,3,3
+330,10,Hamilton County,Alpine Crest Elementary,3,2,3,3,3,5
+330,13,Hamilton County,Apison Elementary School,5,5,4,5,3,5
+330,16,Hamilton County,Battle Academy For Teaching  Learning,3,3,3,3,3,4
+330,17,Hamilton County,Bess T Shepherd Elementary,5,4,5,5,4,3
+330,19,Hamilton County,Big Ridge Elementary,4,4,2,3,5,4
+330,21,Hamilton County,Brainerd High School,1,1,1,1,1,1
+330,33,Hamilton County,Tommie F. Brown International Academy,1,4,1,2,1,3
+330,35,Hamilton County,Brown Middle School,5,5,1,3,5,5
+330,37,Hamilton County,Calvin Donaldson Environmental Science Academy,3,2,1,1,5,1
+330,40,Hamilton County,Central High School,2,2,1,1,4,4
+330,41,Hamilton County,Normal Park Museum Magnet School,5,5,5,5,3,5
+330,45,Hamilton County,Chatt High Center For Creative Arts,3,5,3,4,3,1
+330,46,Hamilton County,Chattanooga School For Arts And Sciences CSAS Upper,5,5,5,5,4,2
+330,47,Hamilton County,Chattanooga School For The Arts And Science CSAS Lower,5,4,5,5,3,3
+330,48,Hamilton County,Clifton Hills Elementary,1,2,1,1,4,3
+330,50,Hamilton County,Daisy Elementary,1,2,1,1,1,3
+330,51,Hamilton County,McConnell Elementary,5,5,5,5,5,5
+330,55,Hamilton County,Dalewood Middle School,4,2,3,2,5,5
+330,58,Hamilton County,Dupont Elementary,2,1,3,2,3,3
+330,59,Hamilton County,East Hamilton School,1,2,1,1,1,2
+330,62,Hamilton County,East Brainerd Elementary,1,4,1,1,1,3
+330,63,Hamilton County,East Lake Elementary,3,4,1,3,3,3
+330,64,Hamilton County,East Lake Academy Of Fine Arts,5,3,3,3,5,4
+330,65,Hamilton County,East Ridge Elementary,4,4,5,5,2,1
+330,70,Hamilton County,East Ridge High School,4,5,2,4,1,4
+330,75,Hamilton County,East Ridge Middle School,5,5,5,5,5,5
+330,78,Hamilton County,East Side Elementary,2,3,5,5,1,1
+330,85,Hamilton County,Middle Valley Elementary,1,2,1,1,5,4
+330,86,Hamilton County,Hamilton County Collegiate High at Chattanooga State,5,4,4,5,,
+330,90,Hamilton County,Harrison Elementary,5,3,5,5,5,5
+330,95,Hamilton County,Hamilton County High School,3,3,3,3,2,3
+330,97,Hamilton County,Barger Academy,1,3,1,1,3,1
+330,100,Hamilton County,Hunter Middle School,5,5,4,5,5,5
+330,110,Hamilton County,Hardy Elementary School,1,2,1,1,1,1
+330,120,Hamilton County,Loftis Middle School,5,5,5,5,5,5
+330,125,Hamilton County,Lookout Mountain Elementary,3,5,3,5,1,2
+330,127,Hamilton County,Hixson Elementary,5,3,5,5,5,3
+330,128,Hamilton County,Hixson High School,2,4,2,3,3,1
+330,129,Hamilton County,Hixson Middle School,1,5,1,2,1,2
+330,133,Hamilton County,Hillcrest Elementary,2,2,3,2,3,1
+330,137,Hamilton County,The Howard School,1,1,1,1,3,3
+330,147,Hamilton County,North Hamilton Elementary,1,2,2,2,1,1
+330,148,Hamilton County,Wolftever Creek Elementary,5,5,3,4,5,3
+330,149,Hamilton County,Nolan Elementary,3,3,3,3,2,5
+330,155,Hamilton County,Ooltewah Elementary,1,4,3,3,1,1
+330,157,Hamilton County,Ooltewah Middle School,5,4,3,3,5,5
+330,159,Hamilton County,Lakeside Academy,1,3,1,1,2,1
+330,160,Hamilton County,Ooltewah High School,1,3,1,1,4,3
+330,162,Hamilton County,Chattanooga School For The Liberal Arts,3,5,1,3,2,3
+330,165,Hamilton County,Lookout Valley Middle / High School,5,4,2,3,5,5
+330,171,Hamilton County,Red Bank Elementary,4,5,3,4,4,3
+330,175,Hamilton County,Red Bank High School,5,5,3,4,5,2
+330,180,Hamilton County,Red Bank Middle School,1,1,1,1,1,4
+330,183,Hamilton County,Rivermont Elementary,3,3,5,4,3,1
+330,190,Hamilton County,Sale Creek Middle / High School,3,5,2,3,3,3
+330,194,Hamilton County,Orchard Knob Elementary,1,3,1,1,1,1
+330,196,Hamilton County,Sequoyah High School,1,1,1,1,1,5
+330,200,Hamilton County,Orchard Knob Middle,3,3,1,3,5,2
+330,210,Hamilton County,Signal Mountain Middle/High School,2,5,3,5,1,1
+330,215,Hamilton County,Snow Hill Elementary,1,3,1,2,1,1
+330,220,Hamilton County,Soddy Daisy High School,1,1,1,1,1,1
+330,225,Hamilton County,Soddy Daisy Middle School,5,5,3,5,3,5
+330,230,Hamilton County,Soddy Elementary,5,4,5,5,5,1
+330,235,Hamilton County,Spring Creek Elementary,1,1,3,1,3,3
+330,237,Hamilton County,Tyner Academy,5,5,4,5,3,2
+330,239,Hamilton County,Tyner Middle Academy,5,4,5,5,4,3
+330,240,Hamilton County,Thrasher Elementary,3,2,4,3,1,5
+330,241,Hamilton County,Lookout Valley Elementary,3,4,3,3,4,3
+330,245,Hamilton County,Woodmore Elementary,2,3,2,2,2,1
+330,260,Hamilton County,Wallace A. Smith Elementary,1,3,4,4,1,1
+330,265,Hamilton County,Westview Elementary,5,5,2,3,5,4
+330,280,Hamilton County,STEM School Chattanooga,1,5,2,4,1,1
+330,8001,Hamilton County,Chattanooga Girls Leadership Academy,5,5,4,5,5,5
+330,8002,Hamilton County,"Ivy Academy, Inc.",1,3,1,2,2,2
+330,8003,Hamilton County,Chattanooga Charter School of Excellence,1,3,1,1,1,1
+330,8010,Hamilton County,Chattanooga Charter School of Excellence Middle School,1,1,2,1,1,1
+340,20,Hancock County,Hancock County Elementary,5,5,5,5,4,4
+340,25,Hancock County,Hancock High School,5,5,3,5,1,5
+350,5,Hardeman County,Bolivar Elementary,1,5,1,1,1,2
+350,10,Hardeman County,Bolivar Middle School,5,5,5,5,5,3
+350,15,Hardeman County,Central High School,1,1,1,1,1,1
+350,25,Hardeman County,Grand Junction Elementary,3,3,2,2,4,2
+350,30,Hardeman County,Hornsby Elementary,4,2,4,3,5,4
+350,35,Hardeman County,Middleton Elementary,4,4,5,5,2,3
+350,40,Hardeman County,Middleton High School,1,1,1,1,3,2
+350,45,Hardeman County,Toone Elementary,4,3,3,3,3,5
+350,55,Hardeman County,Whiteville Elementary,1,3,3,2,1,1
+360,15,Hardin County,Hardin County High School,5,4,5,5,3,3
+360,17,Hardin County,Hardin County Middle School,1,1,4,3,1,1
+360,19,Hardin County,East Hardin Elementary,1,2,3,2,1,1
+360,21,Hardin County,Northside Elementary,3,2,1,1,5,1
+360,45,Hardin County,Parris South Elementary,3,5,2,3,3,2
+360,50,Hardin County,Pickwick Southside School,3,3,2,2,5,1
+360,67,Hardin County,West Hardin Elementary,3,3,5,3,3,2
+370,10,Hawkins County,Bulls Gap School,1,3,1,1,1,1
+370,15,Hawkins County,Carter's Valley Elementary,3,3,3,3,,
+370,17,Hawkins County,Cherokee High School,5,4,5,5,4,2
+370,20,Hawkins County,Church Hill Elementary,2,2,3,2,,
+370,23,Hawkins County,Church Hill Intermediate School,1,2,3,2,1,1
+370,25,Hawkins County,Church Hill Middle School,4,5,1,4,5,2
+370,30,Hawkins County,Clinch School,5,3,5,5,4,2
+370,45,Hawkins County,Keplar Elementary,1,1,1,1,1,1
+370,55,Hawkins County,Mt Carmel Elementary,5,4,5,5,,
+370,60,Hawkins County,McPheeter's Bend Elementary,2,2,2,2,,
+370,65,Hawkins County,Mooresburg Elementary,4,4,3,3,1,5
+370,75,Hawkins County,Hawkins Elementary,5,3,5,5,5,3
+370,80,Hawkins County,Rogersville Middle School,1,1,1,1,1,1
+370,90,Hawkins County,St Clair Elementary,5,4,3,4,5,5
+370,95,Hawkins County,Surgoinsville Elementary,5,4,5,5,,
+370,100,Hawkins County,Surgoinsville Middle School,4,4,2,3,4,5
+370,105,Hawkins County,Volunteer High School,3,5,1,2,3,3
+371,5,Rogersville City,Rogersville Elementary,5,3,3,3,5,5
+380,25,Haywood County,East Side Elementary,1,1,1,1,1,1
+380,35,Haywood County,Haywood Elementary,2,2,3,2,,
+380,40,Haywood County,Haywood High School,2,1,2,1,5,2
+380,45,Haywood County,Haywood Middle School,1,1,3,2,1,3
+390,5,Henderson County,Bargerton Elementary,3,2,2,2,4,5
+390,10,Henderson County,Beaver Elementary,2,3,3,3,3,1
+390,15,Henderson County,Lexington High School,5,5,5,5,5,2
+390,20,Henderson County,Pin Oak Elementary,5,3,4,4,5,3
+390,38,Henderson County,Scotts Hill Elementary,5,5,4,5,5,5
+390,39,Henderson County,Scotts Hill High School,5,5,5,5,5,2
+390,40,Henderson County,South Haven Elementary,5,4,1,3,5,5
+390,45,Henderson County,Westover Elementary,1,2,1,1,1,1
+390,50,Henderson County,South Side Elementary,5,5,5,5,5,4
+391,5,Lexington City,Paul G. Caywood Elementary,3,2,1,1,5,5
+391,10,Lexington City,Lexington Middle School,5,3,3,3,5,5
+400,12,Henry County,Dorothy And Noble Harrelson School,4,3,5,5,1,2
+400,15,Henry County,E. W. Grove School,1,2,2,2,2,
+400,20,Henry County,Henry Elementary,5,5,3,4,5,3
+400,25,Henry County,Henry Co High School,5,5,2,4,5,4
+400,33,Henry County,Lakewood Elementary,4,1,5,3,5,2
+400,34,Henry County,Lakewood Middle School,2,4,1,3,1,5
+401,10,Paris,W O Inman Middle School,5,3,4,3,5,5
+401,20,Paris,Paris Elementary,5,3,2,3,5,5
+410,7,Hickman County,Centerville Intermediate School,1,1,1,1,2,1
+410,16,Hickman County,East Hickman Intermediate School,5,3,4,4,5,5
+410,17,Hickman County,East Hickman Middle School,1,3,1,1,1,4
+410,18,Hickman County,East Hickman High School,1,1,2,1,3,3
+410,20,Hickman County,Hickman Co Middle School,3,5,1,3,4,1
+410,30,Hickman County,Hickman Co Sr High School,1,1,1,1,5,4
+420,5,Houston County,Erin Elementary,3,3,5,4,4,2
+420,10,Houston County,Houston Co Middle School,3,3,1,2,5,3
+420,13,Houston County,Houston Co High School,3,5,3,5,1,3
+420,15,Houston County,Tennessee Ridge Elementary,3,3,3,3,3,3
+430,5,Humphreys County,Lakeview Elementary,5,5,5,5,5,3
+430,9,Humphreys County,Mc Ewen Elementary,5,2,3,3,5,4
+430,13,Humphreys County,McEwen Jr. High School,1,1,3,1,1,3
+430,15,Humphreys County,Mc Ewen High School,5,5,3,5,5,5
+430,20,Humphreys County,Waverly Central High School,1,1,1,1,5,1
+430,25,Humphreys County,Waverly Elementary,5,3,5,5,,
+430,30,Humphreys County,Waverly Jr High School,5,3,3,3,5,5
+440,5,Jackson County,Jackson County High School,5,4,3,4,5,1
+440,10,Jackson County,Dodson Branch Elementary,5,3,4,4,5,5
+440,25,Jackson County,Gainesboro Elementary,1,4,1,1,,
+440,50,Jackson County,Jackson County Middle School,5,3,5,5,3,1
+450,10,Jefferson County,Dandridge Elementary,4,3,3,4,5,2
+450,15,Jefferson County,Jefferson Elementary,5,5,3,5,5,5
+450,17,Jefferson County,Jefferson Middle School,3,3,4,3,3,1
+450,20,Jefferson County,Jefferson Co High School,5,5,5,5,5,5
+450,22,Jefferson County,Maury Middle School,5,5,5,5,5,5
+450,30,Jefferson County,New Market Elementary,5,4,5,5,5,5
+450,35,Jefferson County,Piedmont Elementary,5,3,4,4,3,5
+450,40,Jefferson County,Rush Strong Elementary,5,3,5,5,5,5
+450,55,Jefferson County,Talbott Elementary,5,3,4,4,5,3
+450,60,Jefferson County,White Pine Elementary,3,1,3,2,3,5
+450,70,Jefferson County,Mount Horeb Elementary School,4,3,4,4,3,3
+460,5,Johnson County,Doe Elementary,2,3,3,3,1,3
+460,15,Johnson County,Johnson Co High School,1,3,3,3,1,1
+460,16,Johnson County,Johnson Co Middle School,1,3,1,1,1,3
+460,20,Johnson County,Laurel Elementary,5,3,5,5,3,
+460,25,Johnson County,Mountain City Elementary,1,3,1,1,1,2
+460,33,Johnson County,Roan Creek Elementary,1,3,1,1,1,1
+460,35,Johnson County,Shady Valley Elementary,4,4,4,4,3,
+470,2,Knox County,Amherst Elementary School,3,4,4,4,1,3
+470,3,Knox County,Adrian Burnett Elementary,3,3,5,4,1,1
+470,8,Knox County,Richard Yoakley School,1,3,1,1,1,3
+470,9,Knox County,Austin East High/Magnet,3,5,1,4,2,3
+470,10,Knox County,Ball Camp Elementary,5,3,4,4,5,5
+470,12,Knox County,Bearden Elementary,2,1,3,1,3,3
+470,14,Knox County,Bearden Middle School,1,1,1,1,1,4
+470,15,Knox County,Blue Grass Elementary,3,3,3,3,1,5
+470,17,Knox County,Bearden High School,5,5,4,5,5,5
+470,20,Knox County,Bonny Kate Elementary,4,2,5,3,3,5
+470,22,Knox County,Beaumont Elementary/Magnet,3,3,2,2,5,5
+470,24,Knox County,Belle Morris Elementary,2,4,3,4,1,2
+470,25,Knox County,Brickey McCloud Elementary,1,2,1,1,3,4
+470,30,Knox County,Carter Elementary,4,4,5,5,1,5
+470,35,Knox County,Carter High School,5,2,5,5,5,5
+470,37,Knox County,Carter Middle School,5,3,3,3,5,3
+470,40,Knox County,Cedar Bluff Elementary,5,4,5,5,5,5
+470,45,Knox County,Cedar Bluff Middle School,1,1,1,1,3,5
+470,47,Knox County,Central High School,5,5,5,5,1,4
+470,51,Knox County,Copper Ridge Elementary,3,1,4,3,5,1
+470,53,Knox County,Chilhowee Intermediate,1,1,1,1,3,3
+470,55,Knox County,Corryton Elementary,3,2,4,3,2,3
+470,59,Knox County,Dogwood Elementary,2,4,1,2,2,3
+470,61,Knox County,Christenberry Elementary,5,3,5,4,3,5
+470,65,Knox County,South Doyle High School,5,5,3,5,5,5
+470,66,Knox County,A L Lotts Elementary,4,5,2,4,1,5
+470,67,Knox County,South Doyle Middle School,1,1,1,1,5,1
+470,68,Knox County,East Knox Elementary,5,3,5,4,5,5
+470,72,Knox County,Farragut Intermediate,5,5,5,5,3,5
+470,75,Knox County,Farragut Middle School,2,1,1,1,1,5
+470,80,Knox County,Farragut High School,5,3,5,5,5,5
+470,85,Knox County,Gap Creek Elementary,5,4,5,5,5,3
+470,87,Knox County,Fountain City Elementary,3,2,4,3,3,5
+470,90,Knox County,Fulton High School,5,5,1,3,5,5
+470,95,Knox County,Gibbs Elementary,5,5,5,5,5,1
+470,100,Knox County,Gibbs High School,5,5,4,5,3,4
+470,110,Knox County,Halls Elementary,1,3,2,2,1,1
+470,112,Knox County,Green Magnet Math And Science Academy,2,3,1,2,3,3
+470,115,Knox County,Halls High School,5,5,5,5,4,5
+470,117,Knox County,Gresham Middle School,4,1,1,1,5,5
+470,120,Knox County,Halls Middle School,1,1,1,1,1,1
+470,122,Knox County,Holston Middle School,5,5,1,4,5,5
+470,124,Knox County,Hardin Valley Elementary,3,3,1,1,5,5
+470,126,Knox County,Hardin Valley Academy,5,5,5,5,5,5
+470,138,Knox County,Inskip Elementary,1,1,1,1,4,1
+470,145,Knox County,Karns Elementary,5,5,5,5,5,5
+470,147,Knox County,Karns Middle School,5,3,5,4,5,5
+470,150,Knox County,Karns High School,5,5,5,5,2,5
+470,158,Knox County,Knox Adaptive Education Center,1,3,1,2,,2
+470,165,Knox County,Lonsdale Elementary,3,4,4,4,1,1
+470,168,Knox County,Maynard Elementary,1,1,3,1,4,3
+470,170,Knox County,Mt Olive Elementary,5,5,5,5,3,1
+470,172,Knox County,Mooreland Heights Elementary,3,1,3,2,5,3
+470,175,Knox County,New Hopewell Elementary,3,4,5,5,1,2
+470,177,Knox County,Norwood Elementary,3,4,3,4,1,3
+470,180,Knox County,Powell Elementary,5,4,5,5,3,2
+470,182,Knox County,Powell Middle School,5,5,4,5,5,5
+470,185,Knox County,Powell High School,5,4,5,5,5,5
+470,187,Knox County,Northwest Middle School,2,4,1,2,2,5
+470,195,Knox County,Ritta Elementary,5,5,4,5,2,4
+470,202,Knox County,Pleasant Ridge Elementary,5,5,5,5,5,3
+470,207,Knox County,Pond Gap Elementary,3,3,3,3,4,1
+470,212,Knox County,Ridgedale Alternative School,1,3,1,1,1,2
+470,235,Knox County,Rocky Hill Elementary,4,5,3,4,1,5
+470,250,Knox County,Sarah Moore Greene Magnet Technology Academy,1,1,3,1,1,3
+470,255,Knox County,Sequoyah Elementary,3,4,3,4,1,4
+470,260,Knox County,Shannondale Elementary,5,4,5,5,3,5
+470,265,Knox County,South Knox Elementary,1,2,1,1,1,3
+470,280,Knox County,Spring Hill Elementary,3,5,5,5,1,1
+470,285,Knox County,Sterchi Elementary,3,3,3,3,1,5
+470,295,Knox County,Vine Middle/Magnet,4,3,1,2,5,5
+470,300,Knox County,West Haven Elementary,2,3,4,3,1,1
+470,305,Knox County,West High School,3,4,1,2,4,3
+470,310,Knox County,West Hills Elementary,3,3,3,3,1,5
+470,313,Knox County,West Valley Middle School,4,1,1,1,4,5
+470,315,Knox County,West View Elementary,4,3,3,3,5,4
+470,320,Knox County,Whittle Springs Middle School,5,3,5,5,5,5
+470,332,Knox County,Dr. Paul L. Kelley Volunteer Academy,3,3,3,3,2,3
+470,334,Knox County,L N STEM Academy,4,5,3,5,1,4
+470,336,Knox County,Northshore Elementary School,1,3,1,2,1,4
+470,345,Knox County,Career Magnet Academy,5,5,3,5,3,5
+470,8001,Knox County,Emerald Academy,3,2,5,3,1,3
+480,5,Lake County,Lake Co High School,5,5,5,5,5,5
+480,10,Lake County,Lara Kendall Elementary,2,2,5,3,1,2
+480,15,Lake County,Margaret Newton Elementary,5,4,5,5,2,4
+490,20,Lauderdale County,Halls Elementary School,5,3,5,5,4,3
+490,23,Lauderdale County,Halls High School,3,3,3,3,5,1
+490,24,Lauderdale County,Halls Junior High School,2,5,2,4,1,2
+490,25,Lauderdale County,Ripley Middle School,1,5,1,1,1,1
+490,40,Lauderdale County,Ripley High School,1,1,3,1,3,
+490,55,Lauderdale County,Ripley Elementary,3,2,3,3,3,4
+500,13,Lawrence County,E O Coffman Middle School,3,3,4,4,3,3
+500,15,Lawrence County,David Crockett Elementary,3,1,5,2,5,1
+500,20,Lawrence County,Ethridge Elementary,2,3,1,2,3,2
+500,30,Lawrence County,Ingram Sowell Elementary,2,1,1,1,5,2
+500,40,Lawrence County,Lawrence Co High School,5,5,5,5,5,5
+500,45,Lawrence County,Lawrenceburg Public,3,4,2,3,1,5
+500,50,Lawrence County,Leoma Elementary,2,3,3,3,2,1
+500,60,Lawrence County,South Lawrence Elementary,1,2,1,1,2,1
+500,65,Lawrence County,Loretto High School,1,3,1,1,1,1
+500,70,Lawrence County,New Prospect Elementary,1,1,1,1,1,1
+500,90,Lawrence County,Summertown Elementary,1,1,1,1,1,2
+500,95,Lawrence County,Summertown High School,1,1,1,1,1,1
+510,3,Lewis County,Lewis County Middle School,1,3,2,3,3,1
+510,10,Lewis County,Lewis Co High School,3,4,3,3,1,5
+510,20,Lewis County,Lewis County Intermediate School,1,1,3,1,1,1
+520,10,Lincoln County,Blanche School,3,3,5,4,1,3
+520,25,Lincoln County,Lincoln County Ninth Grade Academy,5,4,5,5,,
+520,45,Lincoln County,Flintville School,4,4,5,5,1,2
+520,50,Lincoln County,Highland Rim School,1,1,1,1,3,1
+520,56,Lincoln County,Lincoln County High School,5,5,3,5,5,5
+520,82,Lincoln County,South Lincoln School,4,4,2,3,5,3
+520,90,Lincoln County,Unity School,1,3,1,2,1,2
+521,7,Fayetteville City,Fayetteville Middle School,5,4,3,3,5,2
+521,10,Fayetteville City,Fayetteville High School,3,3,3,3,3,3
+521,20,Fayetteville City,Ralph Askins School,5,3,5,5,,
+530,15,Loudon County,Eaton Elementary,3,4,3,3,,
+530,18,Loudon County,Ft Loudoun Middle School,5,5,5,5,5,3
+530,25,Loudon County,Greenback School,4,3,2,3,5,3
+530,30,Loudon County,Highland Park Elementary,5,5,5,5,,
+530,35,Loudon County,Loudon Elementary,3,2,3,3,4,3
+530,40,Loudon County,Loudon High School,5,5,5,5,5,5
+530,48,Loudon County,North Middle School,5,5,5,5,1,5
+530,50,Loudon County,Philadelphia Elementary,5,3,4,3,5,5
+530,55,Loudon County,Steekee Elementary,3,3,3,3,4,2
+531,5,Lenoir City,Lenoir City High School,5,5,5,5,3,1
+531,10,Lenoir City,Lenoir City Intermediate/Middle School,1,1,4,3,1,1
+531,30,Lenoir City,Lenoir City Elementary,3,1,5,3,,
+540,10,McMinn County,Calhoun Elementary,3,3,1,1,4,3
+540,15,McMinn County,Central High School,1,3,1,1,1,1
+540,25,McMinn County,E K Baker Elementary,1,3,1,1,2,1
+540,30,McMinn County,Englewood Elementary,5,5,5,5,5,1
+540,45,McMinn County,McMinn High School,1,1,1,1,3,4
+540,50,McMinn County,Mountain View Elementary,5,3,5,4,5,3
+540,55,McMinn County,Niota Elementary,5,5,5,5,3,5
+540,60,McMinn County,Riceville Elementary,5,5,5,5,5,4
+540,65,McMinn County,Rogers Creek Elementary,5,5,5,5,5,3
+541,5,Athens City,Athens City Middle School,5,1,4,3,5,5
+541,25,Athens City,North City Elementary,1,3,1,2,1,3
+541,30,Athens City,Westside Elementary,3,3,3,4,3,2
+542,7,Etowah City,Etowah Elementary,1,1,4,3,3,1
+550,5,McNairy County,Adamsville Elementary,1,3,2,2,1,5
+550,10,McNairy County,Adamsville Junior / Senior High School,3,5,1,2,5,2
+550,15,McNairy County,Bethel Springs Elementary,1,4,1,3,1,2
+550,20,McNairy County,McNairy Central High School,1,1,2,1,1,2
+550,25,McNairy County,Michie Elementary,3,3,3,3,1,3
+550,30,McNairy County,Ramer Elementary,1,5,5,5,1,3
+550,40,McNairy County,Selmer Elementary,5,4,4,5,,
+550,45,McNairy County,Selmer Middle School,4,3,5,5,4,1
+560,5,Macon County,Central Elementary,2,2,3,2,,
+560,20,Macon County,Macon County Junior High School,5,5,4,5,1,5
+560,21,Macon County,Macon County High School,3,1,5,3,5,1
+560,22,Macon County,Lafayette Elementary School,4,5,4,5,3,1
+560,25,Macon County,Red Boiling Springs Elementary,1,2,2,2,1,1
+560,30,Macon County,Red Boiling Springs School,5,5,5,5,5,3
+560,35,Macon County,Westside Elementary,1,3,3,3,1,1
+570,6,Jackson-Madison County,Alexander Elementary School,4,3,5,3,5,3
+570,14,Jackson-Madison County,Arlington Elementary School,1,1,1,1,1,1
+570,21,Jackson-Madison County,Denmark Elementary,1,1,1,1,1,1
+570,22,Jackson-Madison County,Jackson Central-Merry Early College High,5,5,4,5,5,3
+570,24,Jackson-Madison County,Rose Hill School,1,5,2,3,1,1
+570,38,Jackson-Madison County,Isaac Lane Technology Magnet Elementary,2,3,1,2,,
+570,53,Jackson-Madison County,Liberty Technology Magnet High School,1,1,1,1,1,1
+570,56,Jackson-Madison County,Lincoln Elementary School,3,3,2,3,4,1
+570,63,Jackson-Madison County,Madison Academic Magnet High School,5,5,5,5,5,5
+570,71,Jackson-Madison County,North Side High School,3,3,1,1,5,2
+570,76,Jackson-Madison County,Northeast Middle School,4,5,3,4,5,1
+570,86,Jackson-Madison County,Community Montessori School,5,5,4,5,5,4
+570,100,Jackson-Madison County,Pope School,4,4,1,2,5,5
+570,102,Jackson-Madison County,South Elementary,4,5,5,5,1,2
+570,105,Jackson-Madison County,South Side High School,5,3,5,5,4,4
+570,111,Jackson-Madison County,Thelma Barker Elementary,1,3,4,4,1,2
+570,125,Jackson-Madison County,Parkview Learning Center,3,3,,3,,
+570,130,Jackson-Madison County,West-Bemis Middle School,1,2,1,1,1,1
+570,140,Jackson-Madison County,East Elementary School,2,3,2,3,2,1
+570,142,Jackson-Madison County,North Parkway Middle School,1,1,1,1,5,1
+570,144,Jackson-Madison County,Jackson Career Technology Magnet Elementary,1,3,1,1,2,1
+570,146,Jackson-Madison County,Andrew Jackson Elementary School,1,3,1,2,1,2
+580,21,Marion County,Jasper Elementary School,1,2,1,1,,
+580,23,Marion County,Jasper Middle School,1,1,1,1,1,5
+580,25,Marion County,Marion Co High School,1,1,1,1,3,3
+580,30,Marion County,Monteagle Elementary,1,2,2,2,2,1
+580,50,Marion County,South Pittsburg Elementary,3,2,3,2,5,2
+580,55,Marion County,South Pittsburg High School,1,1,3,1,1,3
+580,63,Marion County,Whitwell Elementary,1,2,1,1,,
+580,65,Marion County,Whitwell Middle School,4,3,5,5,3,4
+580,70,Marion County,Whitwell High School,1,1,1,1,1,3
+581,5,Richard City,Richard Hardy Memorial School,1,1,3,2,2,3
+590,7,Marshall County,Chapel Hill Elementary,3,3,3,3,,
+590,18,Marshall County,Cornersville Elementary,5,3,5,4,5,5
+590,20,Marshall County,Cornersville School,5,4,5,5,5,1
+590,30,Marshall County,Forrest School,5,5,5,5,5,4
+590,41,Marshall County,Lewisburg Middle School,1,4,1,2,1,1
+590,43,Marshall County,Marshall Elementary,1,1,1,1,,
+590,47,Marshall County,Marshall Co High School,5,5,5,5,5,5
+590,60,Marshall County,Westhills Elementary,5,4,5,5,5,1
+590,65,Marshall County,Delk-Henson Intermediate School,5,4,5,5,4,1
+600,5,Maury County,J. R. Baker Elementary,3,3,3,3,,
+600,10,Maury County,J. Brown Elementary,1,1,2,1,,
+600,15,Maury County,Columbia Central High School,1,1,3,1,1,1
+600,30,Maury County,Culleoka Unit School,1,1,1,1,1,3
+600,33,Maury County,E. A. Cox Middle School,1,1,1,1,5,1
+600,40,Maury County,Hampshire Unit School,3,3,3,3,1,4
+600,45,Maury County,Highland Park Elementary,2,3,2,2,,
+600,50,Maury County,J E Woodard Elementary,3,3,3,3,,
+600,53,Maury County,Marvin Wright Elementary School,2,4,1,2,,
+600,55,Maury County,McDowell Elementary,1,1,1,1,,
+600,59,Maury County,J E Woody Elementary,5,5,5,5,,
+600,61,Maury County,Mt. Pleasant Middle Visual Perform. Arts,1,1,1,1,2,3
+600,65,Maury County,Mt Pleasant High School,3,4,3,4,1,2
+600,68,Maury County,R Howell Elementary,4,3,5,4,,
+600,70,Maury County,Riverside Elementary,1,2,1,1,,
+600,85,Maury County,Santa Fe Unit School,5,4,5,5,5,5
+600,90,Maury County,Spring Hill Elementary,1,3,1,1,,
+600,95,Maury County,Spring Hill High School,1,1,1,1,1,1
+600,100,Maury County,Whitthorne Middle School,1,1,1,1,1,1
+600,105,Maury County,Spring Hill Middle School,5,3,4,4,5,5
+600,110,Maury County,Northfield Academy,1,3,1,1,2,3
+610,5,Meigs County,Meigs South Elementary,3,3,3,2,5,3
+610,8,Meigs County,Meigs Middle School,1,3,2,3,2,1
+610,15,Meigs County,Meigs North Elementary,1,1,2,1,1,1
+610,25,Meigs County,Meigs County High School,5,5,5,5,3,5
+620,10,Monroe County,Coker Creek Elementary,3,3,4,3,1,3
+620,18,Monroe County,Madisonville Intermediate School,2,5,1,3,3,1
+620,20,Monroe County,Madisonville Middle School,5,1,5,4,4,5
+620,35,Monroe County,Rural Vale Elementary,4,2,3,2,5,4
+620,37,Monroe County,Sequoyah High School,4,3,5,4,2,3
+620,40,Monroe County,Sweetwater High School,3,2,4,3,3,5
+620,45,Monroe County,Tellico Plains Elementary,2,2,2,2,,
+620,50,Monroe County,Tellico Plains High School,5,5,5,5,5,3
+620,53,Monroe County,Tellico Plains Junior High School,1,2,4,3,1,1
+620,55,Monroe County,Vonore Elementary,1,2,1,1,,
+620,58,Monroe County,Vonore Middle School,5,3,5,5,5,5
+621,5,Sweetwater City,Brown Intermediate School,1,3,1,1,1,1
+621,10,Sweetwater City,Sweetwater Elementary,5,5,5,5,,
+621,15,Sweetwater City,Sweetwater Jr High School,5,4,5,5,3,1
+630,3,Montgomery County,Barkers Mill Elementary,5,5,5,5,3,3
+630,5,Montgomery County,Barksdale Elementary,5,3,5,5,5,1
+630,10,Montgomery County,Burt Elementary,2,1,4,2,3,2
+630,15,Montgomery County,Byrns Darden Elementary,5,5,5,5,4,3
+630,17,Montgomery County,Kenwood Elementary,1,3,2,2,1,3
+630,18,Montgomery County,Kenwood Middle,3,3,1,1,3,5
+630,19,Montgomery County,Kenwood High,1,2,1,1,1,2
+630,20,Montgomery County,Montgomery Central Elementary,5,4,5,5,4,5
+630,25,Montgomery County,Montgomery Central High,2,5,1,2,1,5
+630,27,Montgomery County,Hazelwood Elementary,3,3,3,3,2,5
+630,30,Montgomery County,Clarksville High,3,4,2,3,1,5
+630,35,Montgomery County,Glenellen Elementary,5,5,5,5,5,5
+630,40,Montgomery County,Cumberland Heights Elementary,3,1,3,2,3,5
+630,45,Montgomery County,East Montgomery Elementary,5,5,5,5,5,5
+630,49,Montgomery County,Liberty Elementary,5,3,5,5,5,5
+630,51,Montgomery County,Minglewood Elementary,1,2,1,1,3,2
+630,52,Montgomery County,Montgomery Central Middle,1,1,1,1,1,1
+630,55,Montgomery County,Moore Magnet Elementary,3,3,3,3,1,5
+630,60,Montgomery County,Norman Smith Elementary,1,1,1,1,1,2
+630,65,Montgomery County,New Providence Middle,1,2,1,1,3,4
+630,66,Montgomery County,Northeast Elementary,5,5,5,5,5,4
+630,67,Montgomery County,Northeast Middle,5,4,1,3,5,5
+630,68,Montgomery County,Northeast High,1,1,1,1,1,1
+630,70,Montgomery County,Northwest High,1,1,1,1,1,5
+630,73,Montgomery County,Richview Middle,1,1,1,1,1,2
+630,75,Montgomery County,Ringgold Elementary,1,1,2,1,1,1
+630,77,Montgomery County,Rossview Middle,1,1,1,1,1,5
+630,78,Montgomery County,Rossview High,5,4,3,5,5,5
+630,83,Montgomery County,Sango Elementary,4,4,5,5,1,3
+630,84,Montgomery County,West Creek Middle,3,3,1,1,3,5
+630,85,Montgomery County,Woodlawn Elementary,5,4,3,3,5,5
+630,88,Montgomery County,Middle College @ Austin Peay State University,5,5,3,5,3,5
+630,90,Montgomery County,West Creek Elementary,5,3,4,4,5,5
+630,95,Montgomery County,Carmel Elementary,5,5,3,5,5,5
+630,100,Montgomery County,West Creek High,1,1,1,1,1,1
+630,105,Montgomery County,Rossview Elementary,4,5,2,4,1,5
+630,110,Montgomery County,Pisgah Elementary,5,4,5,5,5,5
+630,115,Montgomery County,Oakland Elementary,5,3,5,5,5,5
+640,10,Moore County,Lynchburg Elementary,1,1,1,1,1,1
+640,15,Moore County,Moore County High School,5,5,5,5,5,3
+650,10,Morgan County,Central Elementary,3,1,5,4,1,3
+650,13,Morgan County,Central Middle School,1,2,2,1,1,1
+650,15,Morgan County,Central High School,3,4,1,3,5,2
+650,30,Morgan County,Coalfield School,1,1,3,1,1,1
+650,55,Morgan County,Oakdale School,1,2,1,1,1,1
+650,60,Morgan County,Petros Joyner Elementary,1,3,2,2,1,2
+650,70,Morgan County,Sunbright School,1,1,1,1,3,1
+660,7,Obion County,Black Oak Elementary,4,5,1,3,3,3
+660,12,Obion County,Hillcrest Elementary,5,5,3,4,5,3
+660,26,Obion County,Lake Road Elementary,5,5,5,5,5,1
+660,35,Obion County,Obion County Central High School,1,1,2,1,4,1
+660,38,Obion County,Ridgemont Elementary,3,3,3,3,4,3
+660,45,Obion County,South Fulton Elementary,1,1,3,1,1,2
+660,50,Obion County,South Fulton Middle / High School,1,1,1,1,3,2
+661,10,Union City,Union City Elementary School,5,5,3,4,3,5
+661,12,Union City,Union City Middle School,2,5,1,3,1,5
+661,15,Union City,Union City High School,5,5,5,5,5,3
+670,5,Overton County,Allons Elementary,2,3,3,3,1,5
+670,20,Overton County,Hilham Elementary,5,5,5,5,5,5
+670,30,Overton County,Livingston Academy,4,2,4,3,5,
+670,35,Overton County,Livingston Middle School,3,5,5,5,2,1
+670,50,Overton County,Rickman Elementary,5,5,5,5,5,1
+670,60,Overton County,Wilson Elementary,4,4,4,4,4,3
+670,65,Overton County,A H Roberts Elementary,1,1,1,1,,
+680,15,Perry County,Linden Elementary,1,2,1,1,,
+680,20,Perry County,Lobelville Elementary,2,3,2,2,5,1
+680,25,Perry County,Linden Middle School,4,5,3,4,5,1
+680,27,Perry County,Perry County High School,4,5,5,5,1,4
+690,5,Pickett County,Pickett Co High School,5,5,5,5,5,3
+690,10,Pickett County,Pickett County Elementary,5,5,5,5,3,3
+700,5,Polk County,Benton Elementary,5,5,5,5,5,4
+700,10,Polk County,Copper Basin Elementary School,1,2,1,1,1,1
+700,15,Polk County,Copper Basin High School,5,5,1,3,3,5
+700,50,Polk County,Chilhowee Middle School,1,1,1,1,1,1
+700,53,Polk County,Polk County High School,5,5,5,5,1,5
+700,57,Polk County,South Polk Elementary,4,3,4,4,2,5
+710,5,Putnam County,Algood Elementary,3,3,3,3,,
+710,8,Putnam County,Algood Middle School,1,1,1,1,1,1
+710,15,Putnam County,Cornerstone Elementary,1,1,1,1,,
+710,25,Putnam County,Burks Elementary,1,1,1,1,1,1
+710,30,Putnam County,Cane Creek Elementary,1,1,1,1,,
+710,35,Putnam County,Capshaw Elementary,3,4,1,3,,
+710,37,Putnam County,Cookeville High School,1,1,1,1,1,2
+710,50,Putnam County,Jere Whitson Elementary,2,2,3,2,,
+710,55,Putnam County,Monterey High School,2,3,2,3,1,2
+710,57,Putnam County,Northeast Elementary,5,4,4,5,,
+710,60,Putnam County,Park View Elementary,2,3,2,2,,
+710,65,Putnam County,Avery Trace Middle School,1,1,1,1,1,1
+710,70,Putnam County,Sycamore Elementary,3,2,3,3,,
+710,90,Putnam County,Upperman High School,3,5,3,4,1,5
+710,95,Putnam County,Prescott South Elementary,4,3,5,4,,
+710,100,Putnam County,Prescott South Middle School,1,1,1,1,1,1
+710,105,Putnam County,White Plains Academy,1,1,2,1,1,2
+710,110,Putnam County,Upperman Middle School,1,1,1,1,1,1
+720,10,Rhea County,Frazier Elementary,1,3,3,3,1,1
+720,20,Rhea County,Graysville Elementary School,5,4,3,3,5,5
+720,32,Rhea County,Rhea County High School,5,5,5,5,4,5
+720,40,Rhea County,Spring City Elementary,2,3,4,3,2,1
+720,50,Rhea County,Spring City Middle School,5,5,5,5,4,5
+720,65,Rhea County,Rhea Central Elementary,3,4,3,4,1,4
+720,70,Rhea County,Rhea Middle School,3,5,5,5,1,2
+721,5,Dayton City,Dayton City Elementary,5,5,5,5,5,4
+730,5,Roane County,Cherokee Middle School,5,5,4,5,5,5
+730,14,Roane County,Harriman Middle School,5,4,3,4,5,5
+730,15,Roane County,Harriman High School,5,5,5,5,3,2
+730,28,Roane County,Bowers Elementary,5,3,5,5,3,2
+730,35,Roane County,Kingston Elementary,2,3,4,3,1,1
+730,45,Roane County,Midtown Elementary,5,5,5,5,5,4
+730,47,Roane County,Midway Elementary,3,3,2,2,4,3
+730,48,Roane County,Midway Middle School,5,3,5,5,4,3
+730,50,Roane County,Midway High School,2,3,2,2,3,3
+730,60,Roane County,Oliver Springs Middle,1,1,1,1,4,3
+730,65,Roane County,Oliver Springs High School,5,4,4,5,5,5
+730,77,Roane County,Ridge View Elementary,4,3,5,4,3,5
+730,80,Roane County,Roane County High School,1,3,1,1,2,3
+730,85,Roane County,Rockwood High School,3,3,3,3,3,5
+730,90,Roane County,Rockwood Middle School,5,3,5,5,1,5
+730,95,Roane County,Dyllis Springs Elementary,1,3,1,1,4,2
+740,15,Robertson County,Crestview Elementary School,5,4,5,5,1,5
+740,20,Robertson County,Cheatham Park Elementary,1,2,1,1,1,1
+740,26,Robertson County,Coopertown Middle School,4,4,3,4,1,5
+740,28,Robertson County,East Robertson Elementary,1,3,3,3,1,1
+740,32,Robertson County,East Robertson High School,2,4,3,4,2,1
+740,35,Robertson County,Greenbrier Elementary,1,3,1,1,1,3
+740,38,Robertson County,Greenbrier Middle School,3,1,5,3,4,3
+740,40,Robertson County,Greenbrier High School,4,4,5,5,3,2
+740,45,Robertson County,Jo Byrns High School,1,3,1,1,2,1
+740,48,Robertson County,Jo Byrns Elementary School,3,4,5,5,1,3
+740,50,Robertson County,Krisle Elementary,4,3,4,3,3,5
+740,70,Robertson County,Springfield High School,1,1,1,1,1,3
+740,75,Robertson County,Springfield Middle School,1,1,3,2,1,1
+740,80,Robertson County,Watauga Elementary,4,3,5,4,3,3
+740,88,Robertson County,White House Heritage Elementary School,2,5,3,4,1,3
+740,90,Robertson County,White House Heritage High School,1,1,3,2,5,1
+740,95,Robertson County,Robertson Co. Virtual School,3,4,,4,2,
+750,1,Rutherford County,Blackman Elementary School,4,4,2,3,5,3
+750,2,Rutherford County,Blackman Middle School,5,4,2,3,5,5
+750,3,Rutherford County,Barfield Elementary,5,3,5,4,5,5
+750,4,Rutherford County,Blackman High School,5,,5,5,5,1
+750,5,Rutherford County,Buchanan Elementary,1,3,1,2,1,1
+750,8,Rutherford County,Cedar Grove Elementary,5,4,5,5,5,5
+750,15,Rutherford County,Central Magnet School,5,4,5,5,5,5
+750,17,Rutherford County,Oakland Middle School,1,1,1,1,3,1
+750,20,Rutherford County,Christiana Elementary,1,3,2,2,1,1
+750,21,Rutherford County,Whitworth-Buchanan Middle School,2,1,1,1,5,2
+750,23,Rutherford County,Christiana Middle School,2,1,3,2,1,5
+750,25,Rutherford County,John Colemon Elementary,5,3,5,5,5,5
+750,28,Rutherford County,David Youree Elementary,5,5,4,5,1,3
+750,35,Rutherford County,Eagleville School,3,2,5,4,3,2
+750,37,Rutherford County,Holloway High School,5,4,5,5,4,3
+750,39,Rutherford County,Brown's Chapel Elementary School,5,5,4,5,5,5
+750,40,Rutherford County,Kittrell Elementary,3,3,1,2,4,3
+750,50,Rutherford County,Lascassas Elementary,5,4,5,5,5,1
+750,55,Rutherford County,Rock Springs Elementary,1,4,3,3,1,1
+750,58,Rutherford County,Rock Springs Middle School,1,1,1,1,1,5
+750,59,Rutherford County,LaVergne Lake Elementary School,3,2,5,5,1,2
+750,62,Rutherford County,LaVergne Middle School,1,1,1,1,,
+750,63,Rutherford County,Lavergne High School,2,2,4,3,1,5
+750,65,Rutherford County,Homer Pittard Campus School,1,3,1,3,1,3
+750,70,Rutherford County,McFadden School Of Excellence,4,3,5,4,1,5
+750,72,Rutherford County,Oakland High School,5,3,1,1,5,4
+750,74,Rutherford County,Riverdale High School,1,1,1,1,1,2
+750,75,Rutherford County,Rockvale Elementary,1,3,1,2,1,1
+750,77,Rutherford County,Roy L Waldron Elementary,3,5,3,5,1,1
+750,78,Rutherford County,Rockvale Middle School,5,5,5,5,5,5
+750,90,Rutherford County,Smyrna Elementary,5,5,5,5,4,3
+750,95,Rutherford County,Smyrna Middle School,5,1,5,4,3,5
+750,98,Rutherford County,Smyrna High School,3,1,5,3,5,2
+750,100,Rutherford County,Smyrna Primary,1,3,1,1,3,1
+750,103,Rutherford County,Siegel Middle School,3,1,1,1,5,5
+750,104,Rutherford County,Siegel High School,3,1,3,1,5,3
+750,105,Rutherford County,Thurman Francis Arts Academy/Magnet School for the Arts,5,4,4,5,5,3
+750,110,Rutherford County,Walter Hill Elementary,2,5,2,3,1,1
+750,150,Rutherford County,Wilson Elementary School,4,3,2,2,5,5
+750,200,Rutherford County,Stewartsboro Elementary,5,5,3,4,5,5
+750,210,Rutherford County,Stewarts Creek Elementary School,5,3,5,5,5,5
+750,220,Rutherford County,Stewarts Creek Middle School,5,5,3,4,5,5
+750,225,Rutherford County,Stewarts Creek High School,1,,1,1,1,1
+750,230,Rutherford County,Rocky Fork Middle School,5,4,5,5,5,5
+751,5,Murfreesboro City,Discovery School,2,3,2,3,1,3
+751,7,Murfreesboro City,Black Fox Elementary,1,3,1,1,4,2
+751,10,Murfreesboro City,Bradley Academy - An Arts Integrated School,5,5,5,5,5,2
+751,15,Murfreesboro City,Cason Lane Academy,2,3,2,3,1,1
+751,18,Murfreesboro City,Erma Siegel Elementary,1,1,1,1,2,1
+751,20,Murfreesboro City,Hobgood Elementary,3,3,2,3,5,3
+751,25,Murfreesboro City,Mitchell-Neilson Elementary,1,2,2,1,1,1
+751,32,Murfreesboro City,Northfield Elementary,4,5,4,5,2,3
+751,35,Murfreesboro City,John Pittard Elementary,3,4,1,3,4,5
+751,40,Murfreesboro City,Overall Creek Elementary,2,1,4,3,3,1
+751,45,Murfreesboro City,Reeves-Rogers Elementary,2,3,1,2,2,3
+751,150,Murfreesboro City,Scales Elementary School,1,1,1,1,1,4
+760,5,Scott County,Burchfield Elementary,1,1,1,1,1,1
+760,8,Scott County,Fairview Elementary,1,1,1,1,5,1
+760,20,Scott County,Huntsville Elementary,1,2,1,1,,
+760,25,Scott County,Huntsville Middle School,5,5,3,5,4,1
+760,40,Scott County,Robbins Elementary,3,2,3,3,4,3
+760,48,Scott County,Scott High School,5,5,3,5,3,5
+760,55,Scott County,Winfield Elementary,4,3,3,3,5,4
+761,5,Oneida Special School District,Oneida Elementary,5,5,5,5,1,5
+761,8,Oneida Special School District,Oneida Middle School,5,3,2,3,5,5
+761,10,Oneida Special School District,Oneida High School,5,5,5,5,4,5
+770,5,Sequatchie County,Sequatchie Co Middle School,5,5,5,5,5,5
+770,10,Sequatchie County,Griffith Elementary,2,3,1,2,,
+770,20,Sequatchie County,Sequatchie Co High School,5,5,4,5,5,3
+780,12,Sevier County,Boyds Creek Elementary School,5,3,5,5,4,3
+780,13,Sevier County,Catlettsburg Elementary School,2,1,2,1,2,5
+780,15,Sevier County,Catons Chapel Elementary,1,1,2,1,1,3
+780,20,Sevier County,Gatlinburg Pittman High,5,5,5,5,5,5
+780,25,Sevier County,Jones Cove Elementary,3,1,3,2,5,4
+780,30,Sevier County,Northview Senior Academy,5,5,2,4,5,4
+780,31,Sevier County,Northview Junior Academy,5,1,5,4,3,3
+780,32,Sevier County,Northview Elementary,5,4,4,5,,
+780,34,Sevier County,Northview Intermediate School,4,1,5,3,5,2
+780,35,Sevier County,New Center Elementary,3,2,3,2,4,5
+780,40,Sevier County,Pi Beta Phi Elementary,3,1,5,3,1,3
+780,44,Sevier County,Pigeon Forge Primary,4,4,4,4,,
+780,45,Sevier County,Pigeon Forge Middle School,5,1,5,4,5,5
+780,46,Sevier County,Pigeon Forge High School,5,4,5,5,2,5
+780,50,Sevier County,Pittman Center Elementary,2,3,3,3,3,3
+780,52,Sevier County,Gary Hardin Academy,1,1,2,1,,2
+780,55,Sevier County,Sevier County High School,5,3,5,5,3,3
+780,61,Sevier County,Sevierville Intermediate,5,3,4,3,5,5
+780,62,Sevier County,Sevierville Middle School,3,1,5,3,3,3
+780,66,Sevier County,Seymour Middle School,5,3,5,5,4,5
+780,68,Sevier County,Seymour Intermediate,5,5,3,5,3,5
+780,70,Sevier County,Seymour High School,5,3,5,4,4,5
+780,80,Sevier County,Wearwood Elementary,3,3,3,3,3,3
+792,10,Shelby County (New),Barret's Chapel Elementary/Middle,1,1,1,1,1,3
+792,35,Shelby County (New),Bolton High,3,4,1,3,1,5
+792,67,Shelby County (New),Dexter Elementary,1,5,2,3,1,1
+792,68,Shelby County (New),Dexter Middle,5,5,5,5,5,5
+792,80,Shelby County (New),E.E. Jeter Elementary/Middle,5,4,5,5,5,5
+792,105,Shelby County (New),Germantown Elementary,5,4,5,5,4,2
+792,107,Shelby County (New),Germantown Middle,5,5,5,5,5,5
+792,108,Shelby County (New),Highland Oaks Elementary,5,3,5,5,1,1
+792,110,Shelby County (New),Germantown High,2,2,3,2,5,1
+792,115,Shelby County (New),Lucy Elementary,4,4,4,5,5,1
+792,118,Shelby County (New),Macon-Hall Elementary,5,5,2,3,5,5
+792,140,Shelby County (New),Mt. Pisgah Middle,1,3,1,1,1,5
+792,145,Shelby County (New),Northaven Elementary,2,1,3,1,5,3
+792,175,Shelby County (New),Southwind Elementary,5,3,5,5,5,1
+792,178,Shelby County (New),Southwind High,1,1,3,1,4,1
+792,185,Shelby County (New),Woodstock Middle School,2,3,1,1,5,2
+792,200,Shelby County (New),Highland Oaks Middle,5,5,5,5,3,5
+792,205,Shelby County (New),Lowrance Elementary/Middle,3,3,2,3,1,5
+792,300,Shelby County (New),Belle Forest Community School,1,1,1,1,3,1
+792,2005,Shelby County (New),A. B. Hill Elementary,5,5,5,5,5,5
+792,2007,Shelby County (New),Kate Bond Middle School,2,4,1,1,5,5
+792,2015,Shelby County (New),Alcy Elementary,4,4,5,5,2,2
+792,2020,Shelby County (New),Alton Elementary,1,1,1,1,3,1
+792,2023,Shelby County (New),American Way Middle,2,3,1,1,4,3
+792,2030,Shelby County (New),B. T. Washington High,5,3,5,5,5,1
+792,2040,Shelby County (New),Bellevue Middle,1,1,1,1,5,2
+792,2045,Shelby County (New),Berclair Elementary,5,5,5,5,3,2
+792,2049,Shelby County (New),Chimneyrock Elementary School,1,3,1,1,1,1
+792,2050,Shelby County (New),Bethel Grove Elementary,5,4,4,4,5,3
+792,2053,Shelby County (New),William Herbert Brewster Elementary School,5,3,5,5,3,1
+792,2057,Shelby County (New),Brownsville Road Elementary,2,4,3,3,2,1
+792,2060,Shelby County (New),Bruce Elementary,5,3,5,5,5,3
+792,2070,Shelby County (New),Campus Elementary,5,3,4,5,3,5
+792,2090,Shelby County (New),Central High,4,5,1,3,3,5
+792,2095,Shelby County (New),Charjean Elementary,4,3,4,4,4,1
+792,2100,Shelby County (New),Cherokee Elementary,1,4,1,2,1,1
+792,2108,Shelby County (New),Chickasaw Middle,5,4,5,5,5,5
+792,2115,Shelby County (New),Colonial Middle,2,5,1,3,1,4
+792,2116,Shelby County (New),Kate Bond Elementary School,1,3,4,3,1,1
+792,2117,Shelby County (New),Cordova Elementary,3,5,3,5,1,2
+792,2118,Shelby County (New),Cordova Middle,1,2,1,1,5,1
+792,2119,Shelby County (New),Cordova High School,1,1,1,1,1,1
+792,2126,Shelby County (New),Craigmont High,1,2,1,1,1,1
+792,2128,Shelby County (New),Craigmont Middle,1,3,2,2,3,1
+792,2130,Shelby County (New),Cromwell Elementary,3,3,5,5,1,1
+792,2133,Shelby County (New),Crump Elementary,4,3,4,3,5,2
+792,2135,Shelby County (New),Cummings Elementary/Middle,1,2,1,1,1,1
+792,2145,Shelby County (New),Delano Elementary,4,4,5,5,2,1
+792,2153,Shelby County (New),Double Tree Elementary,4,3,3,3,5,3
+792,2155,Shelby County (New),Douglass Elementary/Middle,3,5,3,5,2,2
+792,2160,Shelby County (New),Douglass High,2,1,3,1,2,5
+792,2162,Shelby County (New),Downtown Elementary,5,3,5,5,3,5
+792,2165,Shelby County (New),Dunbar Elementary,5,3,5,5,4,4
+792,2180,Shelby County (New),East High,3,4,1,2,3,5
+792,2183,Shelby County (New),Egypt Elementary,1,3,1,1,3,3
+792,2185,Shelby County (New),Evans Elementary,3,4,2,3,3,3
+792,2210,Shelby County (New),Ford Road Elementary,3,3,3,3,4,3
+792,2215,Shelby County (New),Fox Meadows Elementary,4,3,3,3,5,1
+792,2230,Shelby County (New),Gardenview Elementary,5,4,5,5,2,2
+792,2240,Shelby County (New),Geeter Middle,1,5,1,3,1,1
+792,2255,Shelby County (New),Georgian Hills Middle,1,3,1,1,1,1
+792,2258,Shelby County (New),Germanshire Elementary,5,5,5,5,5,2
+792,2259,Shelby County (New),Getwell Elementary,3,3,4,3,5,1
+792,2260,Shelby County (New),Goodlett Elementary,3,2,5,3,3,1
+792,2285,Shelby County (New),Grahamwood Elementary,4,5,3,5,1,3
+792,2310,Shelby County (New),Hamilton Elementary,1,1,1,1,1,1
+792,2315,Shelby County (New),Hamilton Middle,1,4,1,1,1,3
+792,2317,Shelby County (New),Hamilton High,1,1,1,1,2,3
+792,2325,Shelby County (New),Havenview Middle,1,1,3,1,5,1
+792,2330,Shelby County (New),Hawkins Mill Elementary,5,4,5,5,3,1
+792,2331,Shelby County (New),Hickory Ridge Elementary,5,3,5,5,2,1
+792,2333,Shelby County (New),Hickory Ridge Middle,4,4,3,3,5,3
+792,2338,Shelby County (New),Hollis F. Price Middle College,5,5,5,5,4,4
+792,2343,Shelby County (New),Holmes Road Elementary,5,3,5,5,5,1
+792,2353,Shelby County (New),Ida B. Wells Academy ES/MS,2,3,3,3,1,3
+792,2355,Shelby County (New),Idlewild Elementary,3,3,4,4,1,4
+792,2360,Shelby County (New),Jackson Elementary,3,3,3,3,3,3
+792,2362,Shelby County (New),J. P. Freeman Elementary/Middle,1,5,5,5,1,1
+792,2368,Shelby County (New),Keystone Elementary,4,3,4,3,5,3
+792,2370,Shelby County (New),Kingsbury Elementary,1,3,3,3,1,1
+792,2373,Shelby County (New),Kingsbury Middle,5,3,3,3,5,5
+792,2375,Shelby County (New),Kingsbury High,1,3,1,1,2,1
+792,2379,Shelby County (New),Kirby High,1,1,1,1,1,1
+792,2385,Shelby County (New),Knight Road Elementary,5,5,5,5,2,1
+792,2395,Shelby County (New),Larose Elementary,5,5,5,5,5,5
+792,2435,Shelby County (New),Levi Elementary,1,1,3,1,3,1
+792,2463,Shelby County (New),Lucie E. Campbell Elementary,5,5,5,5,4,3
+792,2470,Shelby County (New),Magnolia Elementary,2,4,1,3,3,2
+792,2480,Shelby County (New),Manassas High,1,3,1,1,1,1
+792,2483,Shelby County (New),Manor Lake Elementary,2,1,3,2,3,2
+792,2493,Shelby County (New),Melrose High,1,2,1,1,5,4
+792,2515,Shelby County (New),Middle College High,5,3,5,5,5,2
+792,2520,Shelby County (New),Mitchell High,5,4,4,5,5,3
+792,2525,Shelby County (New),Newberry Elementary,3,5,3,4,4,1
+792,2540,Shelby County (New),Oakhaven Elementary,4,4,4,5,4,1
+792,2543,Shelby County (New),Oakhaven Middle,1,1,1,1,1,1
+792,2545,Shelby County (New),Oakhaven High,1,4,1,1,2,3
+792,2550,Shelby County (New),Oakshire Elementary,3,3,2,2,5,1
+792,2565,Shelby County (New),Overton High,3,1,1,1,5,5
+792,2570,Shelby County (New),Peabody Elementary,3,4,4,4,3,1
+792,2597,Shelby County (New),Raleigh-Bartlett Meadows Elementary,5,3,4,4,5,3
+792,2598,Shelby County (New),Raleigh-Egypt High,5,5,1,3,5,5
+792,2600,Shelby County (New),Richland Elementary,5,5,5,5,5,1
+792,2610,Shelby County (New),Balmoral/Ridgeway Elementary,2,3,3,3,3,1
+792,2612,Shelby County (New),Ridgeway Middle,1,1,3,1,1,1
+792,2615,Shelby County (New),Ridgeway High,1,1,1,1,1,3
+792,2625,Shelby County (New),Riverview Elementary/Middle,5,5,5,5,5,3
+792,2626,Shelby County (New),Robert R. Church Elementary,5,3,5,5,4,3
+792,2627,Shelby County (New),Ross Elementary,1,3,1,1,4,2
+792,2630,Shelby County (New),Rozelle Elementary,4,3,3,3,5,3
+792,2633,Shelby County (New),Scenic Hills Elementary,2,3,4,3,1,1
+792,2637,Shelby County (New),Sea Isle Elementary,5,4,4,4,4,3
+792,2640,Shelby County (New),Shady Grove Elementary,3,1,5,3,3,2
+792,2650,Shelby County (New),Sharpe Elementary,4,2,3,3,5,2
+792,2655,Shelby County (New),Sheffield Elementary,1,1,1,1,5,1
+792,2660,Shelby County (New),Sheffield High,1,1,1,1,2,1
+792,2665,Shelby County (New),Sherwood Elementary,3,3,3,3,4,2
+792,2670,Shelby County (New),Sherwood Middle,2,4,3,4,1,1
+792,2680,Shelby County (New),Shelby Oaks Elementary,1,2,2,1,3,2
+792,2690,Shelby County (New),Snowden Elementary/Middle,5,5,4,5,5,5
+792,2692,Shelby County (New),Oak Forest Elementary,2,3,2,3,3,1
+792,2695,Shelby County (New),South Park Elementary,1,3,3,3,1,1
+792,2705,Shelby County (New),Springdale Elementary,5,5,4,5,3,1
+792,2715,Shelby County (New),Treadwell Elementary,3,3,2,3,3,3
+792,2717,Shelby County (New),Riverwood Elementary School,5,5,5,5,5,3
+792,2723,Shelby County (New),Treadwell Middle School,5,3,5,5,3,5
+792,2725,Shelby County (New),Trezevant High,1,1,1,1,1,1
+792,2730,Shelby County (New),Vollentine Elementary,4,3,5,4,5,1
+792,2740,Shelby County (New),A. Maceo Walker Middle,5,4,5,5,5,1
+792,2745,Shelby County (New),Wells Station Elementary,3,4,2,3,5,1
+792,2750,Shelby County (New),Westside Elementary,3,5,3,3,5,1
+792,2770,Shelby County (New),Westwood High,1,1,1,1,1,1
+792,2777,Shelby County (New),White Station Elementary,1,3,2,2,1,3
+792,2780,Shelby County (New),White Station High,1,1,1,1,1,1
+792,2783,Shelby County (New),White Station Middle,5,4,5,5,5,5
+792,2785,Shelby County (New),Whitehaven Elementary,1,3,1,1,4,1
+792,2790,Shelby County (New),Whitehaven High,5,5,1,4,5,3
+792,2800,Shelby County (New),Willow Oaks Elementary,5,4,5,5,5,3
+792,2805,Shelby County (New),Winchester Elementary,3,3,3,3,4,3
+792,2810,Shelby County (New),Winridge Elementary,4,2,5,4,5,1
+792,2815,Shelby County (New),Wooddale High,1,1,1,1,3,2
+792,2824,Shelby County (New),Northwest Prep Academy,1,1,1,1,1,1
+792,2830,Shelby County (New),Carver College and Career Academy,1,1,1,1,1,1
+792,2832,Shelby County (New),Memphis Virtual School,1,3,1,2,1,3
+792,2835,Shelby County (New),Grandview Heights Middle School,5,5,2,3,5,5
+792,2836,Shelby County (New),Maxine Smith STEAM Academy,2,5,3,4,1,2
+792,2840,Shelby County (New),Westhaven Elementary,5,5,5,5,5,1
+792,8110,Shelby County (New),DuBois Middle of Leadership  Public Policy,3,4,1,3,4,5
+792,8115,Shelby County (New),DuBois Middle School of Arts  Technology,4,1,1,1,5,1
+792,8125,Shelby County (New),DuBois High School of Arts  Technology,1,3,1,1,3,1
+792,8130,Shelby County (New),DuBois High of Leadership  Public Policy,5,5,2,5,5,3
+792,8135,Shelby County (New),DuBois Elementary School of Entrepreneurship,3,3,3,3,3,3
+792,8140,Shelby County (New),DuBois Elementary School of Arts  Technology,3,3,4,4,1,2
+792,8145,Shelby County (New),City University School Girls Preparatory,4,3,4,3,5,3
+792,8150,Shelby County (New),Arrow Academy of Excellence,3,3,3,3,,
+792,8155,Shelby County (New),Freedom Preparatory Academy Elementary School,5,5,4,5,5,3
+792,8160,Shelby County (New),Nexus STEM Academy Middle School,1,3,1,1,1,1
+792,8170,Shelby County (New),Memphis Delta Preparatory Charter School,3,3,3,3,3,1
+792,8201,Shelby County (New),Circles Of Success Learning Academy,5,3,3,3,5,3
+792,8202,Shelby County (New),KIPP Memphis Collegiate High School,1,1,3,1,2,3
+792,8204,Shelby County (New),City University School Of Liberal Arts,5,4,3,4,5,
+792,8205,Shelby County (New),Memphis Academy Of Science  Engineering Middle/High,1,4,1,1,5,1
+792,8206,Shelby County (New),Power Center Academy High School,1,1,1,1,3,1
+792,8207,Shelby County (New),Memphis Business Academy Elementary School,5,4,5,5,3,1
+792,8210,Shelby County (New),Memphis Academy Of Health Sciences,5,5,5,5,5,3
+792,8213,Shelby County (New),Memphis Academy of Health Sciences High School,1,4,1,1,1,1
+792,8215,Shelby County (New),Memphis Business Academy Middle,1,2,1,1,1,1
+792,8217,Shelby County (New),Memphis Business Academy High School,1,3,1,1,2,3
+792,8220,Shelby County (New),Power Center Academy Middle,5,5,5,5,5,5
+792,8225,Shelby County (New),Promise Academy,1,3,3,3,1,1
+792,8228,Shelby County (New),Southern Avenue Charter School Of Academic Excellence  Creat,5,4,5,5,3,3
+792,8230,Shelby County (New),Star Academy,1,3,2,2,1,1
+792,8232,Shelby County (New),Soulsville Charter School,5,4,4,5,4,3
+792,8234,Shelby County (New),Freedom Preparatory Academy,5,5,5,5,5,5
+792,8236,Shelby County (New),City University Boys Preparatory,2,2,2,2,4,1
+792,8238,Shelby County (New),KIPP Memphis Collegiate Middle,5,5,2,3,5,1
+792,8240,Shelby County (New),Memphis College Preparatory,5,3,5,5,3,3
+792,8252,Shelby County (New),Memphis School of Excellence,3,3,3,3,1,5
+792,8254,Shelby County (New),Veritas College Preparatory,4,4,3,3,3,4
+792,8256,Shelby County (New),Aurora Collegiate Academy,1,3,1,1,3,5
+792,8258,Shelby County (New),KIPP Memphis Middle Academy,5,5,1,3,4,5
+792,8260,Shelby County (New),Memphis Grizzlies Preparatory Charter School,5,5,4,5,5,5
+792,8262,Shelby County (New),KIPP Memphis Collegiate Elementary,3,1,4,3,,
+792,8264,Shelby County (New),Memphis Rise Academy,5,5,5,5,5,5
+792,8265,Shelby County (New),City University School of Independence,2,3,1,2,,
+792,8266,Shelby County (New),Vision Preparatory Charter School,1,2,1,1,,
+792,8270,Shelby County (New),Power Center Academy Elementary School,1,2,1,1,,
+792,8275,Shelby County (New),The Excel Center,1,3,1,1,3,2
+792,8280,Shelby County (New),Granville T. Woods Academy of Innovation Charter School,4,2,5,3,5,1
+792,8285,Shelby County (New),Leadership Preparatory Charter School,2,2,2,2,,
+792,8295,Shelby County (New),Gateway University,1,3,1,1,1,
+792,8300,Shelby County (New),Kaleidoscope School of Memphis,2,2,1,1,5,1
+792,8305,Shelby County (New),"Legacy Leadership Academy, Inc.",3,4,3,4,1,3
+792,8320,Shelby County (New),Southwest Early College High School,5,5,3,5,5,4
+793,1,Arlington City,Arlington High,4,1,5,5,1,5
+793,5,Arlington City,Arlington Elementary,5,4,5,5,2,5
+793,6,Arlington City,Arlington Middle,1,1,1,1,5,3
+793,195,Arlington City,Donelson Elementary,5,2,5,5,5,5
+794,3,Bartlett City,Altruria Elementary,3,3,5,4,1,5
+794,7,Bartlett City,Appling Middle School,5,4,1,2,5,5
+794,20,Bartlett City,Bartlett Elementary School,3,3,3,3,3,2
+794,25,Bartlett City,Bartlett High School,5,5,5,5,5,4
+794,30,Bartlett City,Bon Lin Elementary School,2,4,1,3,1,3
+794,33,Bartlett City,Bon Lin Middle School,5,4,3,4,5,5
+794,90,Bartlett City,Ellendale Elementary,5,5,5,5,5,5
+794,95,Bartlett City,Elmore Park Middle School,4,1,2,1,5,5
+794,150,Bartlett City,Oak Elementary,5,3,5,4,5,3
+794,155,Bartlett City,Rivercrest Elementary,1,2,2,2,1,3
+795,8,Collierville City,Bailey Station Elementary School,3,5,3,5,1,5
+795,55,Collierville City,Collierville Elementary School,5,5,5,5,5,4
+795,60,Collierville City,Collierville High School,1,1,1,1,1,1
+795,63,Collierville City,Collierville Middle School,3,2,3,3,1,5
+795,65,Collierville City,Crosswind Elementary School,5,4,3,4,2,5
+795,168,Collierville City,Schilling Farms Middle,3,1,2,1,4,5
+795,183,Collierville City,Sycamore Elementary School,5,5,5,5,5,5
+795,190,Collierville City,Tara Oaks Elementary School,5,5,5,5,5,5
+796,70,Germantown City,Dogwood Elementary School,5,2,5,5,1,5
+796,100,Germantown City,Farmington Elementary School,5,4,5,5,1,5
+796,109,Germantown City,Houston Middle School,5,1,2,1,5,5
+796,111,Germantown City,Houston High School,1,1,1,1,1,3
+796,160,Germantown City,Riverdale Elementary School,5,5,5,5,2,5
+797,116,Lakeland City,Lakeland Elementary School,5,5,3,5,,
+797,120,Lakeland City,Lakeland Middle Preparatory School,1,1,1,1,1,1
+798,78,Millington City,E.A. Harrold Elementary School,1,1,3,1,3,1
+798,123,Millington City,Millington Elementary School,4,3,4,3,5,3
+798,130,Millington City,Millington Central High School,2,1,2,1,1,5
+798,133,Millington City,Millington Middle School,4,5,5,5,3,1
+800,5,Smith County,Carthage Elementary,4,4,3,4,,
+800,15,Smith County,Defeated Elementary,4,2,4,3,5,3
+800,20,Smith County,Forks River Elementary,3,3,3,3,3,1
+800,25,Smith County,Gordonsville High School,1,1,3,1,1,1
+800,30,Smith County,Gordonsville Elementary School,1,1,1,1,1,5
+800,45,Smith County,Smith County High School,1,1,3,1,1,1
+800,51,Smith County,Smith County Middle School,5,3,5,5,5,4
+800,60,Smith County,Union Heights Elementary,1,1,3,2,1,3
+810,10,Stewart County,Stewart County Middle School,1,3,1,1,2,1
+810,15,Stewart County,Dover Elementary,5,5,5,5,3,3
+810,17,Stewart County,North Stewart Elementary,5,4,5,5,5,1
+810,25,Stewart County,Stewart Co High School,1,3,1,1,4,3
+820,25,Sullivan County,Blountville Elementary,3,3,3,3,,
+820,30,Sullivan County,Blountville Middle School,1,1,2,1,3,2
+820,35,Sullivan County,Bluff City Elementary,2,1,4,2,,
+820,40,Sullivan County,Bluff City Middle School,1,1,1,1,2,1
+820,55,Sullivan County,Central Heights Elementary,4,3,2,3,5,4
+820,60,Sullivan County,Sullivan Central High School,4,3,1,2,5,5
+820,75,Sullivan County,Colonial Heights Middle,1,2,3,2,1,4
+820,80,Sullivan County,Sullivan East High School,5,5,5,5,3,1
+820,85,Sullivan County,Emmett Elementary,5,5,4,5,3,3
+820,95,Sullivan County,Holston Elementary,4,4,3,4,3,4
+820,100,Sullivan County,Holston Middle School,3,4,3,4,3,1
+820,110,Sullivan County,Holston Valley Middle School,1,1,1,1,1,1
+820,115,Sullivan County,Indian Springs Elementary,3,4,3,4,3,1
+820,150,Sullivan County,Mary Hughes School,1,2,3,3,2,1
+820,155,Sullivan County,Miller Perry Elementary,5,5,5,5,5,4
+820,170,Sullivan County,Rock Springs Elementary,2,3,2,3,3,1
+820,175,Sullivan County,Sullivan Gardens K-8,3,3,4,4,3,3
+820,182,Sullivan County,Sullivan North High School,1,1,1,1,5,2
+820,183,Sullivan County,Sullivan South High School,5,5,5,5,3,5
+820,210,Sullivan County,North Middle School,3,2,5,4,3,2
+820,215,Sullivan County,Ketron Elementary School,1,3,1,1,1,1
+820,220,Sullivan County,Innovation Academy,3,3,3,3,3,3
+821,5,Bristol City,Anderson Elementary,5,2,5,3,5,3
+821,7,Bristol City,Avoca Elementary,5,5,5,5,5,5
+821,20,Bristol City,Fairmount Elementary,1,3,4,3,1,1
+821,25,Bristol City,Haynesfield Elementary,3,3,4,3,1,5
+821,30,Bristol City,Holston View Elementary,1,2,3,2,1,1
+821,35,Bristol City,Vance Middle School,5,1,3,2,5,5
+821,45,Bristol City,Tennessee High School,5,5,5,5,5,5
+821,50,Bristol City,Tennessee Online Public School,5,5,5,5,3,4
+822,10,Kingsport City,Dobyns - Bennett High School,5,3,5,5,5,5
+822,15,Kingsport City,Andrew Jackson Elementary School,4,3,3,4,4,4
+822,20,Kingsport City,Thomas Jefferson Elementary School,5,5,5,5,5,4
+822,25,Kingsport City,Andrew Johnson Elementary School,5,5,5,5,5,5
+822,28,Kingsport City,John F. Kennedy Elementary School,3,4,3,4,1,2
+822,30,Kingsport City,Abraham Lincoln Elementary School,1,3,1,1,2,1
+822,32,Kingsport City,John Adams Elementary School,5,5,5,5,1,5
+822,40,Kingsport City,Ross N. Robinson Middle School,1,1,3,1,1,5
+822,45,Kingsport City,John Sevier Middle School,2,3,1,1,1,5
+822,50,Kingsport City,George Washington Elementary School,3,4,3,3,3,5
+822,55,Kingsport City,Theodore Roosevelt Elementary School,1,3,1,1,1,2
+830,3,Sumner County,Jack Anderson Elementary,1,1,1,1,4,1
+830,5,Sumner County,Beech Elementary,1,1,2,1,2,2
+830,7,Sumner County,Beech Sr High School,5,5,5,5,5,1
+830,10,Sumner County,Bethpage Elementary,1,1,2,1,2,3
+830,15,Sumner County,Robert E Ellis Middle,2,1,4,2,1,5
+830,25,Sumner County,Gallatin Senior High School,5,4,5,5,5,3
+830,30,Sumner County,Guild Elementary,2,2,2,2,1,3
+830,35,Sumner County,Gene W. Brown Elementary,2,3,1,2,2,3
+830,40,Sumner County,Hendersonville High School,5,2,5,5,2,4
+830,50,Sumner County,Howard Elementary,5,5,5,5,1,4
+830,51,Sumner County,T. W. Hunter Middle School,5,4,5,5,5,5
+830,52,Sumner County,Indian Lake Elementary,3,2,2,2,3,5
+830,53,Sumner County,Merrol Hyde Magnet School,5,3,5,5,3,5
+830,54,Sumner County,J W Wiseman Elementary,3,4,2,3,3,1
+830,55,Sumner County,Lakeside Park Elementary,5,3,5,4,5,4
+830,56,Sumner County,Station Camp Middle School,1,2,1,1,1,1
+830,57,Sumner County,Madison Creek Elementary,3,5,1,3,1,4
+830,60,Sumner County,Millersville Elementary,3,2,2,2,5,4
+830,65,Sumner County,Nannie Berry Elementary,5,4,5,5,5,5
+830,70,Sumner County,Watt Hardison Elementary,1,1,1,1,5,2
+830,75,Sumner County,North Sumner Elementary,3,3,4,3,3,3
+830,80,Sumner County,Oakmont Elementary,3,3,2,2,5,1
+830,85,Sumner County,Portland High School,5,2,4,3,5,4
+830,90,Sumner County,Portland East Middle School,5,3,5,4,5,5
+830,93,Sumner County,E B Wilson,3,5,3,4,3,3
+830,95,Sumner County,Clyde Riggs Elementary,3,4,4,4,1,3
+830,97,Sumner County,Joe Shafer Middle School,1,3,1,1,1,4
+830,100,Sumner County,Rucker Stewart Middle,1,1,1,1,1,1
+830,101,Sumner County,Station Camp Elementary,5,3,5,5,5,5
+830,102,Sumner County,Station Camp High School,5,3,5,5,5,3
+830,104,Sumner County,Benny C. Bills Elementary School,1,1,1,1,1,1
+830,105,Sumner County,Union Elementary School,3,1,4,3,5,1
+830,107,Sumner County,V G Hawkins Middle School,2,1,2,1,3,4
+830,109,Sumner County,Vena Stuart Elementary,1,3,1,2,1,1
+830,112,Sumner County,Walton Ferry Elementary,4,4,2,3,4,5
+830,113,Sumner County,George A Whitten Elementary,1,3,1,1,1,3
+830,115,Sumner County,Westmoreland Elementary,1,1,1,1,1,1
+830,117,Sumner County,Westmoreland Middle School,2,3,5,5,1,2
+830,120,Sumner County,Westmoreland High School,5,5,5,5,5,4
+830,125,Sumner County,White House High School,5,5,5,5,5,3
+830,130,Sumner County,White House Middle School,1,1,1,1,1,3
+830,135,Sumner County,Knox Doss Middle School at Drakes Creek,1,1,4,1,1,1
+830,140,Sumner County,Portland West Middle School,1,1,1,1,1,5
+830,150,Sumner County,Harold B. Williams Elementary School,3,3,4,3,,
+830,152,Sumner County,Portland Gateview Elementary School,3,2,5,4,2,3
+830,160,Sumner County,Dr. William Burrus Elementary at Drakes Creek,4,3,4,3,3,5
+840,2,Tipton County,Austin Peay Elementary School,1,2,2,2,1,1
+840,4,Tipton County,Atoka Elementary School,3,2,3,3,3,3
+840,7,Tipton County,Brighton Elementary,2,1,3,2,3,3
+840,11,Tipton County,Brighton High School,1,1,1,1,1,1
+840,12,Tipton County,Brighton Middle School,5,5,5,5,5,1
+840,13,Tipton County,Crestview Middle School,5,5,4,5,5,3
+840,14,Tipton County,Covington Integrated Arts Academy,1,4,4,5,1,1
+840,15,Tipton County,Covington High School,5,5,3,4,4,4
+840,17,Tipton County,Crestview Elementary,1,1,1,1,1,1
+840,20,Tipton County,Drummonds Elementary,4,3,5,5,2,3
+840,45,Tipton County,Munford Elementary,2,2,1,1,2,3
+840,48,Tipton County,Munford Middle School,5,5,5,5,5,1
+840,50,Tipton County,Munford High School,1,2,2,1,3,1
+850,5,Trousdale County,Trousdale Co Elementary,1,1,3,1,5,1
+850,10,Trousdale County,Trousdale Co High School,5,4,3,3,5,4
+850,15,Trousdale County,Jim Satterfield Middle School,5,3,1,2,5,4
+860,5,Unicoi County,Unicoi Co Middle School,2,3,1,1,3,3
+860,15,Unicoi County,Love Chapel Elementary,1,2,1,1,1,5
+860,25,Unicoi County,Rock Creek Elementary,3,1,4,3,5,3
+860,30,Unicoi County,Temple Hill Elementary,3,3,3,3,3,1
+860,35,Unicoi County,Unicoi Co High School,2,5,1,4,2,1
+860,40,Unicoi County,Unicoi Elementary,2,2,3,2,1,4
+870,5,Union County,Big Ridge Elementary,1,1,2,1,2,2
+870,25,Union County,H Maynard Middle School,1,3,3,3,1,1
+870,35,Union County,Luttrell Elementary,1,3,1,2,1,1
+870,40,Union County,Maynardville Elementary,1,2,1,1,1,1
+870,45,Union County,Sharps Chapel Elementary,1,1,1,1,2,3
+870,55,Union County,Union County High School,3,3,5,4,3,1
+870,57,Union County,Paulette Elementary School,1,2,1,1,4,1
+870,60,Union County,Tennessee Virtual Academy,1,1,1,1,1,1
+880,30,Van Buren County,Spencer Elementary,2,3,2,2,1,2
+880,35,Van Buren County,Van Buren Co High School,4,4,5,5,3,3
+890,10,Warren County,Centertown Elementary,5,4,5,5,5,5
+890,20,Warren County,Dibrell Elementary,5,3,2,2,5,5
+890,30,Warren County,Eastside Elementary,1,3,1,2,2,2
+890,38,Warren County,Hickory Creek School,5,5,5,5,3,5
+890,40,Warren County,Irving College Elementary,5,5,5,5,5,4
+890,50,Warren County,Morrison Elementary,3,2,3,3,5,4
+890,63,Warren County,Bobby Ray Memorial,1,3,1,1,1,1
+890,75,Warren County,Warren County Middle School,5,5,5,5,5,5
+890,80,Warren County,Warren County High School,1,1,1,1,1,2
+890,85,Warren County,West Elementary,3,4,1,3,3,1
+900,25,Washington County,Boones Creek Elementary,3,3,3,3,,
+900,30,Washington County,Boones Creek Middle School,3,3,2,3,3,5
+900,37,Washington County,Daniel Boone High School,3,5,2,4,1,5
+900,38,Washington County,David Crockett High School,5,5,5,5,1,4
+900,45,Washington County,Fall Branch Elementary,1,2,3,2,1,1
+900,50,Washington County,Grandview Elementary School,5,5,5,5,4,3
+900,55,Washington County,Gray Elementary School,1,1,3,2,3,1
+900,60,Washington County,Jonesborough Elementary,5,3,5,5,,
+900,65,Washington County,Jonesborough Middle School,4,5,3,4,4,3
+900,75,Washington County,Lamar Elementary,1,2,3,2,1,3
+900,80,Washington County,Ridgeview Elementary School,5,4,3,4,5,5
+900,90,Washington County,South Central Elementary,3,2,5,5,1,3
+900,95,Washington County,Sulphur Springs Elementary,1,2,2,1,1,1
+900,105,Washington County,University School,5,5,4,5,3,5
+900,110,Washington County,West View School,1,1,2,1,1,1
+901,7,Johnson City,Cherokee Elementary,5,5,5,5,,
+901,15,Johnson City,Fairmont Elementary,1,1,1,1,,
+901,16,Johnson City,Indian Trail Intermediate School,3,3,3,3,1,5
+901,18,Johnson City,Lake Ridge Elementary,5,5,5,5,,
+901,20,Johnson City,Woodland Elementary,5,5,5,5,,
+901,35,Johnson City,Liberty Bell Middle School,5,5,3,5,5,5
+901,37,Johnson City,Mountain View Elementary,5,4,5,5,,
+901,40,Johnson City,North Side Elementary,5,4,5,5,,
+901,45,Johnson City,Science Hill High School,5,5,5,5,5,5
+901,55,Johnson City,South Side Elementary,1,1,1,1,,
+901,65,Johnson City,Towne Acres Elementary,3,1,4,3,,
+910,5,Wayne County,Collinwood Elementary,3,4,2,3,,
+910,10,Wayne County,Collinwood High School,3,5,2,5,2,1
+910,15,Wayne County,Collinwood Middle School,5,4,4,5,5,5
+910,25,Wayne County,Frank Hughes School,2,3,1,1,3,4
+910,35,Wayne County,Wayne County High School,5,5,5,5,4,3
+910,40,Wayne County,Waynesboro Elementary,4,3,3,4,,
+910,45,Wayne County,Waynesboro Middle School,5,3,3,3,5,3
+920,5,Weakley County,Dresden Elementary,3,3,4,3,,
+920,7,Weakley County,Dresden Middle School,4,4,4,4,4,3
+920,10,Weakley County,Dresden High School,3,3,5,4,2,4
+920,15,Weakley County,Gleason School,4,3,3,3,5,3
+920,25,Weakley County,Greenfield School,1,2,1,1,1,1
+920,35,Weakley County,Martin Elementary,5,3,5,5,2,2
+920,40,Weakley County,Westview High School,1,2,1,1,3,1
+920,45,Weakley County,Martin Middle School,2,2,1,1,1,5
+920,60,Weakley County,Sharon School,3,4,4,5,1,3
+930,10,White County,Bon De Croft Elementary,2,1,2,1,3,3
+930,15,White County,Cassville Elementary,4,1,4,2,5,5
+930,20,White County,Central View Elementary,1,2,1,1,2,2
+930,25,White County,Doyle Elementary,3,5,5,5,1,1
+930,35,White County,Findlay Elementary,1,2,1,1,1,3
+930,37,White County,Northfield Elementary School,5,2,4,3,5,5
+930,40,White County,White County High School,5,4,5,5,3,5
+930,50,White County,White Co Middle School,1,1,2,1,1,1
+930,60,White County,Woodland Park Elementary,4,3,3,2,5,5
+940,4,Williamson County,Allendale Elementary School,3,1,1,1,5,5
+940,5,Williamson County,Bethesda Elementary,2,2,2,2,3,5
+940,12,Williamson County,Brentwood High School,5,5,5,5,5,5
+940,17,Williamson County,Centennial High School,3,2,5,3,1,4
+940,20,Williamson County,College Grove Elementary,1,1,1,1,1,5
+940,22,Williamson County,Clovercroft Elementary School,5,5,5,5,5,5
+940,23,Williamson County,Chapman's Retreat Elementary,3,2,1,1,5,5
+940,27,Williamson County,Edmondson Elementary,5,1,5,4,4,5
+940,28,Williamson County,Crockett Elementary,3,3,4,4,1,5
+940,30,Williamson County,Fairview Elementary,4,3,3,3,3,5
+940,33,Williamson County,Fairview Middle School,4,3,3,3,3,5
+940,35,Williamson County,Fairview High School,5,4,5,5,3,5
+940,40,Williamson County,Franklin High School,5,1,5,5,3,5
+940,41,Williamson County,Fred J Page Middle School,1,1,5,1,1,5
+940,42,Williamson County,Fred J Page High School,5,3,5,5,3,5
+940,45,Williamson County,Grassland Elementary,1,1,1,1,1,5
+940,46,Williamson County,Grassland Middle School,1,1,2,1,1,4
+940,48,Williamson County,Heritage Elementary,3,3,3,3,2,5
+940,49,Williamson County,Heritage Middle School,1,1,1,1,3,5
+940,50,Williamson County,Hillsboro Elementary/ Middle School,3,1,1,1,3,5
+940,52,Williamson County,Independence High School,5,2,5,5,4,4
+940,54,Williamson County,Spring Station Middle School,4,1,2,1,5,5
+940,57,Williamson County,Hunters Bend Elementary,5,4,5,5,5,5
+940,59,Williamson County,Kenrose Elementary,1,2,1,1,1,5
+940,60,Williamson County,Lipscomb Elementary,3,3,3,3,1,5
+940,61,Williamson County,Longview Elementary School,3,2,3,3,3,5
+940,63,Williamson County,Renaissance High School,5,5,5,5,5,
+940,64,Williamson County,Pearre Creek Elementary School,3,5,3,4,1,5
+940,65,Williamson County,Nolensville Elementary,1,3,1,2,1,5
+940,66,Williamson County,Nolensville High School,5,1,5,3,4,5
+940,67,Williamson County,Brentwood Middle School,5,2,5,5,5,5
+940,68,Williamson County,Oak View Elem School,2,2,3,3,1,5
+940,71,Williamson County,Mill Creek Elementary School,1,3,2,2,1,5
+940,72,Williamson County,Mill Creek Middle School,5,3,3,3,5,5
+940,74,Williamson County,Ravenwood High School,5,5,5,5,5,5
+940,76,Williamson County,Scales Elementary,5,2,4,3,5,5
+940,77,Williamson County,Sunset Elementary School,1,3,1,1,1,3
+940,78,Williamson County,Sunset Middle School,2,1,3,1,1,5
+940,79,Williamson County,Summit High School,5,3,5,5,5,5
+940,80,Williamson County,Trinity Elementary,1,1,2,1,1,3
+940,83,Williamson County,Walnut Grove Elementary,1,1,2,1,1,5
+940,84,Williamson County,Woodland Middle School,1,1,2,1,1,3
+940,88,Williamson County,Westwood Elementary School,1,1,1,1,1,1
+940,89,Williamson County,Winstead Elementary School,1,4,2,3,1,5
+941,5,Franklin Special School District,Johnson Elementary,1,3,1,1,,
+941,10,Franklin Special School District,Franklin Elementary,3,5,3,3,,
+941,21,Franklin Special School District,Freedom Intermediate,5,2,5,4,5,3
+941,22,Franklin Special School District,Freedom Middle School,1,3,1,1,3,5
+941,25,Franklin Special School District,Liberty Elementary,3,5,1,3,,
+941,30,Franklin Special School District,Moore Elementary,4,5,3,4,,
+941,35,Franklin Special School District,Poplar Grove K-4,5,5,3,5,,
+941,40,Franklin Special School District,Poplar Grove 5-8,5,4,1,3,5,5
+950,5,Wilson County,Carroll Oakland Elementary,3,3,2,2,4,3
+950,10,Wilson County,Gladeville Elementary,1,4,2,3,1,4
+950,15,Wilson County,Springdale Elementary School,3,4,1,2,5,3
+950,20,Wilson County,Lakeview Elementary School,3,1,3,1,5,5
+950,25,Wilson County,Lebanon High School,5,5,5,5,1,4
+950,30,Wilson County,Mt. Juliet High School,5,5,5,5,5,2
+950,32,Wilson County,Mt. Juliet Middle School,1,1,3,1,1,2
+950,33,Wilson County,West Wilson Middle School,5,4,4,4,5,5
+950,35,Wilson County,Mt. Juliet Elementary,1,3,3,3,1,1
+950,46,Wilson County,Rutland Elementary,3,4,3,4,1,4
+950,50,Wilson County,Southside Elementary,5,4,1,3,5,5
+950,52,Wilson County,Stoner Creek Elementary,4,5,5,5,1,1
+950,55,Wilson County,Tuckers Crossroads Elementary,1,2,3,2,1,2
+950,60,Wilson County,Watertown High School,5,5,5,5,5,3
+950,63,Wilson County,Watertown Elementary,4,5,3,5,3,2
+950,65,Wilson County,West Elementary,5,4,5,5,2,5
+950,73,Wilson County,Wilson Central High School,5,5,5,5,4,5
+950,80,Wilson County,W A Wright Elementary,5,5,5,5,2,5
+950,87,Wilson County,Tennessee Virtual On-Line School,2,3,3,3,1,2
+950,90,Wilson County,Elzie D Patton Elementary School,5,5,5,5,1,3
+950,95,Wilson County,Watertown Middle School,3,4,2,3,3,5
+951,5,Lebanon Special School District,Byars Dowdy Elementary,5,3,5,5,5,4
+951,7,Lebanon Special School District,Coles Ferry Elementary,4,5,1,3,5,3
+951,30,Lebanon Special School District,Sam Houston Elementary,3,3,5,4,1,3
+951,35,Lebanon Special School District,Walter J. Baird Middle School,5,5,5,5,5,5
+951,40,Lebanon Special School District,Castle Heights Elementary,1,1,1,1,3,3
+951,45,Lebanon Special School District,Winfree Bryant Middle School,3,5,5,5,1,1
+961,5,Alvin C. York Institute,Alvin C. York Institute,5,5,5,5,5,
+963,5,Tenn School For Blind,Tenn School For Blind,4,,4,4,,
+964,8,Tenn Sch For Deaf,Tennessee Middle School for the Deaf,3,4,3,3,3,2
+964,10,Tenn Sch For Deaf,Tennessee High School For Deaf,3,1,3,3,2,3
+970,25,Department of Children's Services Ed. Division,Woodland Hills Youth Development Center,1,2,1,1,,
+970,45,Department of Children's Services Ed. Division,Wilder Youth Development Center,1,1,1,1,,1
+985,5,Achievement School District,Corning Achievement Elementary,3,3,3,3,4,2
+985,10,Achievement School District,Westside Achievement Middle School,1,1,1,1,1,1
+985,15,Achievement School District,Frayser Achievement Elementary,3,2,4,3,5,3
+985,20,Achievement School District,Whitney Achievement Elementary School,1,1,1,1,1,2
+985,25,Achievement School District,Georgian Hills Achievement Elementary School,3,1,5,3,2,1
+985,35,Achievement School District,GRAD Academy Memphis,1,2,1,1,1,1
+985,45,Achievement School District,Pathways in Education - TN,1,3,1,3,1,
+985,50,Achievement School District,Pathways in Education - Whitehaven,1,1,2,1,1,
+985,8005,Achievement School District,Brick Church: A LEAD Public School,4,4,2,3,4,4
+985,8010,Achievement School District,Cornerstone Prep - Lester Campus,3,3,1,2,5,1
+985,8015,Achievement School District,Humes Preparatory Academy Middle  School,1,1,1,1,3,2
+985,8020,Achievement School District,KIPP Memphis Preparatory Middle,1,1,2,1,1,1
+985,8024,Achievement School District,Aspire Middle School,5,4,5,5,5,1
+985,8025,Achievement School District,Aspire Hanley Elementary,2,2,2,2,4,2
+985,8040,Achievement School District,KIPP Memphis Academy Elementary,3,4,2,3,,
+985,8050,Achievement School District,Aspire Coleman,3,3,3,3,5,1
+985,8055,Achievement School District,Fairley High School,1,1,1,1,1,1
+985,8060,Achievement School District,Promise Academy - Spring Hill,5,3,5,5,,
+985,8065,Achievement School District,Martin Luther King Preparatory High School,1,1,1,1,1,3
+985,8070,Achievement School District,Lester Prep,5,5,4,5,3,5
+985,8075,Achievement School District,Freedom Preparatory Academy Charter Elementary School,3,3,3,3,2,3
+985,8090,Achievement School District,Neely's Bend: A LEAD Public School,5,5,3,5,5,5
+985,8105,Achievement School District,Wooddale Middle School,5,5,5,5,5,1
+985,8110,Achievement School District,KIPP Memphis Preparatory Elementary,2,3,2,2,,
+985,8115,Achievement School District,Cornerstone Prep Denver Campus,5,5,5,5,5,1
+985,8120,Achievement School District,Memphis Scholars Florida Kansas,3,2,2,1,5,3
+985,8125,Achievement School District,Memphis Scholars Caldwell-Guthrie,2,3,1,2,3,3
+985,8130,Achievement School District,Memphis Scholars Raleigh-Egypt,5,4,4,4,5,4
+985,8135,Achievement School District,Kirby Middle School,5,5,5,5,5,1
+985,8140,Achievement School District,Hillcrest High School,1,2,2,1,3,3
+986,8005,Tennessee State Board of Education,Bluff City High School,5,4,5,5,,
